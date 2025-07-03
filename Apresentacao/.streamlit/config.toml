@@ -1,0 +1,30 @@
+[global]
+# Configuração para produção
+developmentMode = false
+
+[server]
+# Configurações do servidor
+port = 8501
+address = "localhost"
+headless = true
+enableCORS = false
+enableXsrfProtection = false
+
+[browser]
+# Configurações do navegador
+gatherUsageStats = false
+serverAddress = "localhost"
+serverPort = 8501
+
+[theme]
+# Tema personalizado
+primaryColor = "#1f77b4"
+backgroundColor = "#ffffff"
+secondaryBackgroundColor = "#f0f2f6"
+textColor = "#262730"
+font = "sans serif"
+
+[client]
+# Configurações do cliente
+toolbarMode = "auto"
+showErrorDetails = true 

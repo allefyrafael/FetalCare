@@ -1,0 +1,47 @@
+# ===================================================
+# Dependências dos Testes E2E - Sistema FetalCare
+# ===================================================
+
+# Selenium e WebDriver
+selenium==4.15.2
+webdriver-manager==4.0.1
+
+# Framework de Testes
+pytest==7.4.3
+pytest-html==4.1.1
+pytest-xdist==3.3.1
+pytest-rerunfailures==12.0
+pytest-timeout==2.2.0
+pytest-mock==3.12.0
+
+# Relatórios e Evidências
+allure-pytest==2.13.2
+pytest-allure-adaptor==1.7.10
+
+# Utilitários
+faker==20.1.0
+requests==2.31.0
+beautifulsoup4==4.12.2
+lxml==4.9.3
+
+# Logging e Debugging
+colorama==0.4.6
+colorlog==6.8.0
+
+# Configuração e Dados
+pyyaml==6.0.1
+configparser==6.0.0
+jsonschema==4.20.0
+
+# Manipulação de Imagens (Screenshots)
+pillow==10.1.0
+
+# Análise e Relatórios
+pandas==2.1.3
+matplotlib==3.8.2
+seaborn==0.13.0
+
+# Desenvolvimento
+black==23.11.0
+flake8==6.1.0
+isort==5.12.0 

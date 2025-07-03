@@ -1,0 +1,295 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FetalCare - Sistema de Monitoramento Fetal</title>
+    <link rel="stylesheet" href="styles.css">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet">
+</head>
+<body>
+    <!-- Header -->
+    <header class="header">
+        <div class="container">
+            <div class="logo">
+                <i class="fas fa-heartbeat"></i>
+                <h1>FetalCare</h1>
+                <span>Sistema de Monitoramento Fetal</span>
+            </div>
+            <div class="header-actions">
+                <button id="viewRecordsBtn" class="btn btn-secondary">
+                    <i class="fas fa-database"></i> Ver Registros
+                </button>
+                <div class="status-indicator">
+                    <span id="connectionStatus" class="status offline">
+                        <i class="fas fa-circle"></i>
+                        Verificando conexão...
+                    </span>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <main class="main">
+        <div class="container">
+            <!-- Seção de Dados da Gestante -->
+            <section class="card">
+                <div class="card-header">
+                    <h2><i class="fas fa-user-circle"></i> Dados da Gestante</h2>
+                </div>
+                <div class="card-body">
+                    <form id="patientForm" class="form">
+                        <div class="form-row">
+                            <div class="form-group">
+                                <label for="patientName">Nome da Gestante *</label>
+                                <input type="text" id="patientName" name="patientName" required>
+                            </div>
+                            <div class="form-group">
+                                <label for="patientId">ID da Gestante *</label>
+                                <input type="text" id="patientId" name="patientId" required>
+                            </div>
+                        </div>
+                        <div class="form-row">
+                            <div class="form-group">
+                                <label for="patientCpf">CPF da Gestante</label>
+                                <input type="text" id="patientCpf" name="patientCpf" placeholder="000.000.000-00">
+                            </div>
+                            <div class="form-group">
+                                <label for="gestationalAge">Idade Gestacional (semanas) *</label>
+                                <input type="number" id="gestationalAge" name="gestationalAge" min="1" max="42" required>
+                            </div>
+                        </div>
+                        <div class="form-row">
+                            <div class="form-group">
+                                <label for="patientAge">Idade da Gestante</label>
+                                <input type="number" id="patientAge" name="patientAge" min="12" max="60">
+                            </div>
+                        </div>
+                        <button type="submit" class="btn btn-primary">
+                            <i class="fas fa-save"></i> Salvar Dados da Gestante
+                        </button>
+                    </form>
+                </div>
+            </section>
+
+            <!-- Seção de Parâmetros de Monitoramento -->
+            <section class="card">
+                <div class="card-header">
+                    <h2><i class="fas fa-chart-line"></i> Parâmetros de Monitoramento Fetal</h2>
+                    <button id="loadDefaults" class="btn btn-secondary">
+                        <i class="fas fa-download"></i> Carregar Padrões
+                    </button>
+                </div>
+                <div class="card-body">
+                    <form id="monitoringForm" class="form">
+                        <!-- Frequência Cardíaca Fetal -->
+                        <div class="param-group">
+                            <h3><i class="fas fa-heartbeat"></i> Frequência Cardíaca Fetal</h3>
+                            <div class="form-row">
+                                <div class="form-group">
+                                    <label for="baselineValue">Valor Basal (bpm) *</label>
+                                    <input type="number" id="baselineValue" name="baseline_value" min="80" max="200" required>
+                                </div>
+                                <div class="form-group">
+                                    <label for="accelerations">Acelerações *</label>
+                                    <input type="number" id="accelerations" name="accelerations" min="0" max="20" required>
+                                </div>
+                                <div class="form-group">
+                                    <label for="fetalMovement">Movimento Fetal *</label>
+                                    <input type="number" id="fetalMovement" name="fetal_movement" min="0" max="10" required>
+                                </div>
+                            </div>
+                        </div>
+
+                        <!-- Contrações e Decelerações -->
+                        <div class="param-group">
+                            <h3><i class="fas fa-wave-square"></i> Contrações e Decelerações</h3>
+                            <div class="form-row">
+                                <div class="form-group">
+                                    <label for="uterineContractions">Contrações Uterinas</label>
+                                    <input type="number" id="uterineContractions" name="uterine_contractions" min="0" max="10" value="0">
+                                </div>
+                                <div class="form-group">
+                                    <label for="lightDecelerations">Decelerações Leves</label>
+                                    <input type="number" id="lightDecelerations" name="light_decelerations" min="0" max="10" value="0">
+                                </div>
+                                <div class="form-group">
+                                    <label for="severeDecelerations">Decelerações Severas</label>
+                                    <input type="number" id="severeDecelerations" name="severe_decelerations" min="0" max="10" value="0">
+                                </div>
+                            </div>
+                            <div class="form-row">
+                                <div class="form-group">
+                                    <label for="prolonguedDecelerations">Decelerações Prolongadas</label>
+                                    <input type="number" id="prolonguedDecelerations" name="prolongued_decelerations" min="0" max="10" value="0">
+                                </div>
+                            </div>
+                        </div>
+
+                        <!-- Variabilidade -->
+                        <div class="param-group">
+                            <h3><i class="fas fa-chart-area"></i> Variabilidade</h3>
+                            <div class="form-row">
+                                <div class="form-group">
+                                    <label for="abnormalShortTermVariability">Variabilidade Anormal de Curto Prazo (%)</label>
+                                    <input type="number" id="abnormalShortTermVariability" name="abnormal_short_term_variability" min="0" max="100" value="0">
+                                </div>
+                                <div class="form-group">
+                                    <label for="meanValueOfShortTermVariability">Valor Médio da Variabilidade de Curto Prazo *</label>
+                                    <input type="number" id="meanValueOfShortTermVariability" name="mean_value_of_short_term_variability" min="0" max="50" step="0.1" required>
+                                </div>
+                            </div>
+                            <div class="form-row">
+                                <div class="form-group">
+                                    <label for="percentageOfTimeWithAbnormalLongTermVariability">% Tempo com Variabilidade Anormal de Longo Prazo</label>
+                                    <input type="number" id="percentageOfTimeWithAbnormalLongTermVariability" name="percentage_of_time_with_abnormal_long_term_variability" min="0" max="100" value="0">
+                                </div>
+                                <div class="form-group">
+                                    <label for="meanValueOfLongTermVariability">Valor Médio da Variabilidade de Longo Prazo *</label>
+                                    <input type="number" id="meanValueOfLongTermVariability" name="mean_value_of_long_term_variability" min="0" max="100" step="0.1" required>
+                                </div>
+                            </div>
+                        </div>
+
+                        <!-- Histograma -->
+                        <div class="param-group">
+                            <h3><i class="fas fa-chart-bar"></i> Histograma</h3>
+                            <div class="form-row">
+                                <div class="form-group">
+                                    <label for="histogramWidth">Largura do Histograma</label>
+                                    <input type="number" id="histogramWidth" name="histogram_width" min="0" max="200" value="150">
+                                </div>
+                                <div class="form-group">
+                                    <label for="histogramMin">Valor Mínimo</label>
+                                    <input type="number" id="histogramMin" name="histogram_min" min="0" max="200" value="110">
+                                </div>
+                                <div class="form-group">
+                                    <label for="histogramMax">Valor Máximo</label>
+                                    <input type="number" id="histogramMax" name="histogram_max" min="0" max="200" value="160">
+                                </div>
+                            </div>
+                            <div class="form-row">
+                                <div class="form-group">
+                                    <label for="histogramNumberOfPeaks">Número de Picos</label>
+                                    <input type="number" id="histogramNumberOfPeaks" name="histogram_number_of_peaks" min="0" max="20" value="3">
+                                </div>
+                                <div class="form-group">
+                                    <label for="histogramNumberOfZeroes">Número de Zeros</label>
+                                    <input type="number" id="histogramNumberOfZeroes" name="histogram_number_of_zeroes" min="0" max="100" value="0">
+                                </div>
+                                <div class="form-group">
+                                    <label for="histogramMode">Moda</label>
+                                    <input type="number" id="histogramMode" name="histogram_mode" min="0" max="200" value="140">
+                                </div>
+                            </div>
+                            <div class="form-row">
+                                <div class="form-group">
+                                    <label for="histogramMean">Média</label>
+                                    <input type="number" id="histogramMean" name="histogram_mean" min="0" max="200" value="142">
+                                </div>
+                                <div class="form-group">
+                                    <label for="histogramMedian">Mediana</label>
+                                    <input type="number" id="histogramMedian" name="histogram_median" min="0" max="200" value="141">
+                                </div>
+                                <div class="form-group">
+                                    <label for="histogramVariance">Variância</label>
+                                    <input type="number" id="histogramVariance" name="histogram_variance" min="0" max="1000" value="25">
+                                </div>
+                            </div>
+                            <div class="form-row">
+                                <div class="form-group">
+                                    <label for="histogramTendency">Tendência</label>
+                                    <select id="histogramTendency" name="histogram_tendency">
+                                        <option value="">Selecione</option>
+                                        <option value="normal">Normal</option>
+                                        <option value="increasing">Crescente</option>
+                                        <option value="decreasing">Decrescente</option>
+                                        <option value="stable">Estável</option>
+                                    </select>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="form-actions">
+                            <button type="submit" class="btn btn-primary btn-large">
+                                <i class="fas fa-calculator"></i> Realizar Análise Fetal
+                            </button>
+                        </div>
+                    </form>
+                </div>
+            </section>
+
+            <!-- Seção de Resultados -->
+            <section id="resultsSection" class="card results-card" style="display: none;">
+                <div class="card-header">
+                    <h2><i class="fas fa-chart-pie"></i> Resultado da Análise</h2>
+                    <button id="saveResults" class="btn btn-success">
+                        <i class="fas fa-save"></i> Salvar
+                    </button>
+                </div>
+                <div class="card-body">
+                    <div class="result-summary">
+                        <div class="status-display">
+                            <div class="status-icon" id="statusIcon">
+                                <i class="fas fa-heartbeat"></i>
+                            </div>
+                            <div class="status-info">
+                                <h3 id="statusText">Aguardando análise...</h3>
+                                <p id="statusDescription">Preencha os dados e clique em "Realizar Análise Fetal"</p>
+                            </div>
+                        </div>
+                        
+                        <div class="status-bar">
+                            <div class="status-bar-fill" id="statusBarFill"></div>
+                            <span class="status-label" id="statusLabel">Status</span>
+                        </div>
+                    </div>
+
+                    <div class="result-details" id="resultDetails" style="display: none;">
+                        <div class="detail-grid">
+                            <div class="detail-item">
+                                <span class="detail-label">Baseline:</span>
+                                <span class="detail-value" id="detailBaseline">-</span>
+                            </div>
+                            <div class="detail-item">
+                                <span class="detail-label">Acelerações:</span>
+                                <span class="detail-value" id="detailAccelerations">-</span>
+                            </div>
+                            <div class="detail-item">
+                                <span class="detail-label">Movimento Fetal:</span>
+                                <span class="detail-value" id="detailMovement">-</span>
+                            </div>
+                            <div class="detail-item">
+                                <span class="detail-label">Data/Hora:</span>
+                                <span class="detail-value" id="detailTimestamp">-</span>
+                            </div>
+                        </div>
+
+                        <div class="recommendations" id="recommendations">
+                            <h4><i class="fas fa-lightbulb"></i> Recomendações</h4>
+                            <ul id="recommendationsList">
+                                <!-- Recomendações serão inseridas aqui -->
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+           
+        </div>
+    </main>
+
+    <!-- Loading Overlay -->
+    <div id="loadingOverlay" class="loading-overlay" style="display: none;">
+        <div class="loading-spinner">
+            <i class="fas fa-heartbeat fa-pulse"></i>
+            <p>Analisando dados fetais...</p>
+        </div>
+    </div>
+
+    <!-- Notifications Container -->
+    <div id="notifications" class="notifications-container"></div>
+
+    <script src="script.js"></script>
+</body>
+</html> 

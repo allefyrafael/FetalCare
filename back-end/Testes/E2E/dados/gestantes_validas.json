@@ -1,0 +1,234 @@
+{
+  "gestantes_normais": [
+    {
+      "nome": "Maria Silva Santos",
+      "id": "P001",
+      "cpf": "123.456.789-00",
+      "idade_gestacional": 28,
+      "idade": 30,
+      "descricao": "Gestante jovem, primeira gestação"
+    },
+    {
+      "nome": "Ana Paula Oliveira",
+      "id": "P002", 
+      "cpf": "987.654.321-00",
+      "idade_gestacional": 32,
+      "idade": 25,
+      "descricao": "Gestante primípara"
+    },
+    {
+      "nome": "Joana Maria Costa",
+      "id": "P003",
+      "cpf": "456.789.123-00", 
+      "idade_gestacional": 36,
+      "idade": 35,
+      "descricao": "Gestante multípara"
+    },
+    {
+      "nome": "Carolina Pereira Lima",
+      "id": "P004",
+      "cpf": "789.123.456-00",
+      "idade_gestacional": 24,
+      "idade": 28,
+      "descricao": "Gestante segundo trimestre"
+    },
+    {
+      "nome": "Fernanda Rodrigues Silva",
+      "id": "P005",
+      "cpf": "321.654.987-00",
+      "idade_gestacional": 38,
+      "idade": 32,
+      "descricao": "Gestante próxima ao termo"
+    }
+  ],
+  "gestantes_casos_especiais": [
+    {
+      "nome": "Beatriz Santos Mendes",
+      "id": "P010",
+      "cpf": "111.222.333-44",
+      "idade_gestacional": 16,
+      "idade": 18,
+      "descricao": "Gestante jovem, segundo trimestre inicial"
+    },
+    {
+      "nome": "Isabel Fernandes Costa",
+      "id": "P011", 
+      "cpf": "555.666.777-88",
+      "idade_gestacional": 40,
+      "idade": 40,
+      "descricao": "Gestante tardia, a termo"
+    },
+    {
+      "nome": "Claudia Regina Sousa",
+      "id": "P012",
+      "cpf": "999.888.777-66",
+      "idade_gestacional": 12,
+      "idade": 22,
+      "descricao": "Gestante primeiro trimestre"
+    },
+    {
+      "nome": "Luciana Alves Barbosa",
+      "id": "P013",
+      "cpf": "444.333.222-11",
+      "idade_gestacional": 42,
+      "idade": 38,
+      "descricao": "Gestante pós-termo"
+    }
+  ],
+  "gestantes_sem_cpf": [
+    {
+      "nome": "Patricia Gomes Silva",
+      "id": "P020",
+      "cpf": "",
+      "idade_gestacional": 26,
+      "idade": 27,
+      "descricao": "Gestante sem CPF informado"
+    },
+    {
+      "nome": "Roberta Santos Lima",
+      "id": "P021",
+      "cpf": null,
+      "idade_gestacional": 30,
+      "idade": 33,
+      "descricao": "Gestante CPF não disponível"
+    }
+  ],
+  "gestantes_sem_idade": [
+    {
+      "nome": "Adriana Costa Pereira",
+      "id": "P030",
+      "cpf": "123.987.456-78",
+      "idade_gestacional": 34,
+      "idade": null,
+      "descricao": "Gestante sem idade informada"
+    },
+    {
+      "nome": "Vanessa Oliveira Santos",
+      "id": "P031",
+      "cpf": "789.456.123-99",
+      "idade_gestacional": 29,
+      "idade": "",
+      "descricao": "Gestante idade não preenchida"
+    }
+  ],
+  "nomes_internacionais": [
+    {
+      "nome": "María José González",
+      "id": "P040",
+      "cpf": "147.258.369-85",
+      "idade_gestacional": 27,
+      "idade": 29,
+      "descricao": "Nome com acentos"
+    },
+    {
+      "nome": "Anne-Marie Dubois",
+      "id": "P041",
+      "cpf": "963.852.741-74",
+      "idade_gestacional": 31,
+      "idade": 26,
+      "descricao": "Nome composto internacional"
+    },
+    {
+      "nome": "李美琪",
+      "id": "P042",
+      "cpf": "159.753.486-12",
+      "idade_gestacional": 33,
+      "idade": 31,
+      "descricao": "Nome em caracteres chineses"
+    }
+  ],
+  "nomes_especiais": [
+    {
+      "nome": "Maria da Silva Santos e Souza",
+      "id": "P050",
+      "cpf": "741.852.963-36",
+      "idade_gestacional": 25,
+      "idade": 24,
+      "descricao": "Nome muito longo"
+    },
+    {
+      "nome": "Ana",
+      "id": "P051",
+      "cpf": "852.963.741-47",
+      "idade_gestacional": 35,
+      "idade": 37,
+      "descricao": "Nome muito curto"
+    },
+    {
+      "nome": "Maria José da Conceição Santos e Silva Oliveira",
+      "id": "P052",
+      "cpf": "654.321.987-25",
+      "idade_gestacional": 39,
+      "idade": 42,
+      "descricao": "Nome extremamente longo"
+    }
+  ],
+  "idades_gestacionais_limites": [
+    {
+      "nome": "Carla Extreme Min",
+      "id": "P060",
+      "cpf": "111.111.111-11",
+      "idade_gestacional": 1,
+      "idade": 20,
+      "descricao": "Idade gestacional mínima"
+    },
+    {
+      "nome": "Paula Extreme Max",
+      "id": "P061",
+      "cpf": "222.222.222-22",
+      "idade_gestacional": 42,
+      "idade": 35,
+      "descricao": "Idade gestacional máxima"
+    },
+    {
+      "nome": "Sandra Normal Min",
+      "id": "P062",
+      "cpf": "333.333.333-33",
+      "idade_gestacional": 20,
+      "idade": 25,
+      "descricao": "Início da viabilidade fetal"
+    },
+    {
+      "nome": "Helena Normal Max",
+      "id": "P063",
+      "cpf": "444.444.444-44",
+      "idade_gestacional": 40,
+      "idade": 30,
+      "descricao": "Termo completo"
+    }
+  ],
+  "idades_maternas_limites": [
+    {
+      "nome": "Jovem Adolescente",
+      "id": "P070",
+      "cpf": "555.555.555-55",
+      "idade_gestacional": 22,
+      "idade": 12,
+      "descricao": "Idade materna mínima"
+    },
+    {
+      "nome": "Madura Tardia",
+      "id": "P071",
+      "cpf": "666.666.666-66",
+      "idade_gestacional": 28,
+      "idade": 60,
+      "descricao": "Idade materna máxima"
+    },
+    {
+      "nome": "Adolescente Normal",
+      "id": "P072",
+      "cpf": "777.777.777-77",
+      "idade_gestacional": 30,
+      "idade": 16,
+      "descricao": "Adolescente dentro da normalidade"
+    },
+    {
+      "nome": "Adulta Madura",
+      "id": "P073",
+      "cpf": "888.888.888-88",
+      "idade_gestacional": 26,
+      "idade": 45,
+      "descricao": "Gestante madura"
+    }
+  ]
+} 

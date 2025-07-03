@@ -1,0 +1,1001 @@
+patient_id,patient_name,patient_cpf,gestational_age,medical_history,current_medications,allergies,emergency_contact
+TEST6442,Priscila Ribeiro,768.563.932-72,25,Histórico médico 32,Medicação 1,Nenhuma,(59) 90672-8002
+TEST1477,Ana Silva,446.547.611-10,40,Histórico médico 71,Medicação 7,Nenhuma,(82) 94288-3288
+TEST4626,Gustavo Carvalho,232.430.898-88,34,Histórico médico 83,Medicação 6,Alergia 1,(76) 94075-8612
+TEST7718,Juliana Pereira,102.927.111-66,40,Histórico médico 29,Medicação 1,Nenhuma,(60) 95422-2619
+TEST7601,Bruno Martins,619.426.491-38,40,Histórico médico 31,Medicação 9,Alergia 5,(73) 99928-8353
+TEST8735,Felipe Monteiro,114.436.301-16,21,Histórico médico 55,Medicação 5,Nenhuma,(74) 95520-2867
+TEST2570,João Oliveira,706.284.104-79,35,Histórico médico 90,Medicação 7,Nenhuma,(39) 95047-6055
+TEST7415,Diego Barbosa,959.107.361-58,34,Histórico médico 12,Medicação 7,Nenhuma,(52) 98714-5843
+TEST8798,Pedro Costa,355.261.975-62,24,Histórico médico 47,Medicação 8,Alergia 3,(41) 90257-8673
+TEST6434,Diego Barbosa,571.649.596-70,32,Histórico médico 5,Medicação 7,Nenhuma,(51) 93424-7634
+TEST5049,Gustavo Carvalho,220.229.344-68,31,Histórico médico 91,Medicação 1,Nenhuma,(87) 98188-6575
+TEST2170,Lucia Ferreira,429.342.694-68,24,Histórico médico 70,Medicação 4,Nenhuma,(73) 91549-5027
+TEST2903,Marcelo Araújo,157.106.757-97,27,Histórico médico 69,Medicação 3,Nenhuma,(26) 96788-8590
+TEST3875,Felipe Monteiro,616.169.189-94,27,Histórico médico 48,Medicação 5,Nenhuma,(33) 91432-5282
+TEST6322,Carlos Rodrigues,453.533.756-32,27,Histórico médico 96,Medicação 7,Nenhuma,(73) 97746-9634
+TEST3231,Fernanda Lima,121.412.969-93,26,Histórico médico 44,Medicação 3,Alergia 2,(43) 93697-5533
+TEST1339,Diego Barbosa,991.245.889-31,22,Histórico médico 68,Medicação 1,Alergia 5,(15) 99368-4351
+TEST5940,Diego Barbosa,146.495.804-49,28,Histórico médico 23,Medicação 10,Alergia 4,(14) 92511-8647
+TEST9475,Gustavo Carvalho,168.832.814-90,39,Histórico médico 93,Medicação 6,Nenhuma,(32) 98309-2385
+TEST8910,Tatiana Gomes,367.633.597-66,31,Histórico médico 15,Medicação 1,Alergia 5,(74) 98325-7113
+TEST5083,Pedro Costa,742.646.973-83,29,Histórico médico 29,Medicação 9,Nenhuma,(69) 98550-5711
+TEST1930,Felipe Monteiro,349.594.772-78,38,Histórico médico 61,Medicação 1,Nenhuma,(59) 90729-6064
+TEST6440,Diego Barbosa,657.295.124-10,23,Histórico médico 89,Medicação 6,Alergia 1,(52) 98931-2091
+TEST1270,Maria Santos,612.790.806-17,32,Histórico médico 26,Medicação 9,Nenhuma,(76) 93511-4775
+TEST7818,Rafael Almeida,290.741.272-54,32,Histórico médico 86,Medicação 6,Nenhuma,(37) 97121-5859
+TEST5804,Marcelo Araújo,588.733.283-42,40,Histórico médico 85,Medicação 10,Nenhuma,(95) 90781-6566
+TEST6029,Renata Cardoso,653.744.321-61,26,Histórico médico 41,Medicação 4,Nenhuma,(20) 90518-2860
+TEST9493,Vanessa Dias,849.741.541-76,29,Histórico médico 54,Medicação 1,Nenhuma,(89) 99851-4193
+TEST6376,Felipe Monteiro,273.919.190-23,38,Histórico médico 74,Medicação 4,Alergia 1,(78) 93805-9309
+TEST2444,Priscila Ribeiro,232.208.294-52,32,Histórico médico 55,Medicação 5,Nenhuma,(23) 95144-6105
+TEST8979,Juliana Pereira,158.921.631-73,38,Histórico médico 93,Medicação 10,Nenhuma,(82) 97107-7359
+TEST3798,Bruno Martins,163.841.904-52,22,Histórico médico 27,Medicação 4,Alergia 1,(79) 91217-5198
+TEST2391,Fernanda Lima,429.144.918-53,25,Histórico médico 85,Medicação 6,Alergia 4,(72) 93685-4710
+TEST7228,Leonardo Nascimento,465.859.710-15,32,Histórico médico 59,Medicação 10,Alergia 5,(59) 93034-4315
+TEST9169,Fernanda Lima,889.631.113-18,22,Histórico médico 89,Medicação 6,Nenhuma,(67) 95142-5087
+TEST7243,Camila Sousa,255.808.218-33,33,Histórico médico 74,Medicação 4,Alergia 3,(80) 95577-3098
+TEST9229,Lucia Ferreira,667.435.348-12,35,Histórico médico 16,Medicação 1,Nenhuma,(32) 99699-8049
+TEST1887,Priscila Ribeiro,795.422.623-90,38,Histórico médico 67,Medicação 10,Nenhuma,(47) 98321-9968
+TEST4231,Marcelo Araújo,498.505.111-67,36,Histórico médico 100,Medicação 5,Alergia 5,(60) 98331-9914
+TEST6242,Maria Santos,500.797.654-70,33,Histórico médico 27,Medicação 1,Nenhuma,(60) 99545-6089
+TEST2434,Maria Santos,294.644.209-68,38,Histórico médico 49,Medicação 7,Nenhuma,(67) 92688-9441
+TEST1586,Lucia Ferreira,433.206.269-31,39,Histórico médico 16,Medicação 4,Alergia 1,(69) 98286-9512
+TEST1862,Pedro Costa,159.987.622-61,37,Histórico médico 24,Medicação 7,Nenhuma,(52) 93624-3268
+TEST7342,Tatiana Gomes,505.451.569-16,27,Histórico médico 76,Medicação 8,Alergia 1,(91) 95452-4974
+TEST8229,Renata Cardoso,788.500.205-66,38,Histórico médico 32,Medicação 2,Nenhuma,(20) 97077-1117
+TEST5502,Leonardo Nascimento,559.628.200-54,28,Histórico médico 38,Medicação 4,Nenhuma,(43) 91450-4806
+TEST6878,Carlos Rodrigues,783.697.578-33,40,Histórico médico 27,Medicação 8,Alergia 1,(55) 90366-9681
+TEST1208,Diego Barbosa,647.652.735-47,26,Histórico médico 43,Medicação 3,Nenhuma,(82) 91499-8289
+TEST4452,Fernanda Lima,657.604.782-89,32,Histórico médico 81,Medicação 2,Alergia 3,(82) 98093-4659
+TEST5442,Rafael Almeida,291.205.873-17,25,Histórico médico 54,Medicação 8,Nenhuma,(58) 99101-6331
+TEST3968,Vanessa Dias,389.456.669-67,24,Histórico médico 32,Medicação 4,Nenhuma,(48) 96750-5176
+TEST2330,Gustavo Carvalho,374.571.437-93,38,Histórico médico 3,Medicação 10,Nenhuma,(79) 97536-9821
+TEST6532,Lucia Ferreira,468.722.236-20,34,Histórico médico 49,Medicação 2,Nenhuma,(96) 93538-2411
+TEST3329,Leonardo Nascimento,216.306.344-66,22,Histórico médico 89,Medicação 6,Alergia 3,(50) 90847-9048
+TEST9403,Lucia Ferreira,841.612.897-30,28,Histórico médico 45,Medicação 5,Nenhuma,(85) 97695-5413
+TEST3225,João Oliveira,426.653.433-86,25,Histórico médico 94,Medicação 7,Nenhuma,(14) 98466-2966
+TEST4378,Marcelo Araújo,335.675.616-95,25,Histórico médico 85,Medicação 10,Alergia 2,(30) 94377-3110
+TEST7283,João Oliveira,315.659.740-10,40,Histórico médico 28,Medicação 8,Nenhuma,(45) 96879-9089
+TEST3231,Gustavo Carvalho,746.781.514-73,38,Histórico médico 80,Medicação 7,Alergia 1,(96) 96427-2044
+TEST1428,Priscila Ribeiro,258.475.523-75,30,Histórico médico 57,Medicação 8,Nenhuma,(28) 94687-6799
+TEST2952,Lucia Ferreira,913.936.471-36,23,Histórico médico 79,Medicação 3,Nenhuma,(41) 92942-7565
+TEST2408,Rafael Almeida,250.773.609-88,24,Histórico médico 94,Medicação 1,Alergia 5,(56) 92868-6472
+TEST3208,Diego Barbosa,927.153.754-23,34,Histórico médico 95,Medicação 8,Alergia 5,(48) 98080-3074
+TEST4852,Ana Silva,654.288.658-88,27,Histórico médico 70,Medicação 4,Nenhuma,(86) 92158-2238
+TEST6820,Renata Cardoso,942.746.845-39,36,Histórico médico 45,Medicação 3,Nenhuma,(77) 95122-1246
+TEST2740,Tatiana Gomes,577.910.948-11,22,Histórico médico 19,Medicação 10,Nenhuma,(56) 93658-4473
+TEST2768,Maria Santos,925.878.966-31,21,Histórico médico 41,Medicação 3,Nenhuma,(89) 93055-8424
+TEST7024,Bruno Martins,208.579.921-13,22,Histórico médico 16,Medicação 9,Nenhuma,(67) 90988-2722
+TEST3632,Diego Barbosa,478.388.110-65,29,Histórico médico 92,Medicação 7,Alergia 5,(90) 93240-5776
+TEST5842,Tatiana Gomes,120.828.685-65,21,Histórico médico 8,Medicação 5,Nenhuma,(67) 97855-3531
+TEST1115,Bruno Martins,538.919.387-10,31,Histórico médico 6,Medicação 10,Nenhuma,(76) 94321-1507
+TEST1834,Priscila Ribeiro,549.414.428-67,25,Histórico médico 50,Medicação 2,Nenhuma,(74) 99440-6407
+TEST4980,Felipe Monteiro,282.441.980-43,33,Histórico médico 9,Medicação 6,Nenhuma,(49) 90581-9761
+TEST5521,Carlos Rodrigues,786.959.625-66,25,Histórico médico 37,Medicação 10,Nenhuma,(20) 96352-1496
+TEST8111,Bruno Martins,773.233.368-82,21,Histórico médico 88,Medicação 5,Nenhuma,(56) 96257-3208
+TEST9213,Vanessa Dias,288.880.233-48,36,Histórico médico 87,Medicação 7,Alergia 2,(44) 97587-7792
+TEST6949,Diego Barbosa,695.430.656-86,35,Histórico médico 47,Medicação 3,Nenhuma,(22) 94451-5991
+TEST4256,Vanessa Dias,150.561.618-11,40,Histórico médico 69,Medicação 4,Nenhuma,(11) 90736-5360
+TEST7980,Bruno Martins,767.730.466-29,28,Histórico médico 93,Medicação 1,Alergia 5,(97) 92285-6068
+TEST8622,Vanessa Dias,561.606.739-61,35,Histórico médico 14,Medicação 4,Nenhuma,(32) 97342-1612
+TEST4071,Carlos Rodrigues,730.148.949-80,36,Histórico médico 10,Medicação 1,Nenhuma,(84) 99372-1356
+TEST9767,Maria Santos,927.151.349-97,21,Histórico médico 78,Medicação 1,Nenhuma,(81) 93098-5775
+TEST7136,Felipe Monteiro,814.697.573-41,35,Histórico médico 100,Medicação 10,Nenhuma,(75) 98789-5210
+TEST2746,Marcelo Araújo,964.667.958-70,39,Histórico médico 98,Medicação 1,Alergia 1,(63) 92395-8728
+TEST5432,Juliana Pereira,798.711.542-35,34,Histórico médico 6,Medicação 8,Alergia 3,(19) 93562-6361
+TEST5840,Felipe Monteiro,299.738.913-65,24,Histórico médico 49,Medicação 7,Alergia 4,(53) 91884-8513
+TEST3245,Maria Santos,420.480.646-71,35,Histórico médico 23,Medicação 9,Alergia 5,(11) 91631-9200
+TEST7180,Priscila Ribeiro,941.643.490-42,25,Histórico médico 98,Medicação 5,Nenhuma,(98) 91933-4892
+TEST3901,Bruno Martins,543.726.696-86,20,Histórico médico 39,Medicação 10,Nenhuma,(29) 91167-9368
+TEST7647,Renata Cardoso,660.115.464-78,35,Histórico médico 88,Medicação 1,Nenhuma,(48) 94562-8497
+TEST9667,Pedro Costa,664.434.730-16,33,Histórico médico 62,Medicação 5,Nenhuma,(62) 92000-2262
+TEST8517,Bruno Martins,658.685.251-31,26,Histórico médico 81,Medicação 7,Nenhuma,(94) 91784-3298
+TEST4394,Juliana Pereira,684.489.662-97,34,Histórico médico 10,Medicação 1,Nenhuma,(94) 91663-7483
+TEST3142,Carlos Rodrigues,542.285.372-82,27,Histórico médico 89,Medicação 5,Nenhuma,(47) 94382-4271
+TEST8197,Pedro Costa,722.621.412-24,33,Histórico médico 60,Medicação 9,Nenhuma,(28) 93830-6063
+TEST8708,Felipe Monteiro,270.642.482-77,34,Histórico médico 56,Medicação 6,Alergia 5,(95) 94942-6448
+TEST7120,Gustavo Carvalho,480.755.395-86,38,Histórico médico 92,Medicação 9,Nenhuma,(45) 98680-1742
+TEST1578,Bruno Martins,352.709.122-47,24,Histórico médico 77,Medicação 7,Nenhuma,(98) 94445-9134
+TEST7749,Camila Sousa,518.302.224-71,37,Histórico médico 26,Medicação 5,Alergia 2,(90) 93441-3800
+TEST5918,Tatiana Gomes,707.704.632-72,29,Histórico médico 67,Medicação 8,Nenhuma,(64) 98134-1542
+TEST3265,Diego Barbosa,828.588.711-32,39,Histórico médico 47,Medicação 3,Nenhuma,(37) 94383-8762
+TEST9874,Juliana Pereira,160.123.544-27,36,Histórico médico 100,Medicação 6,Nenhuma,(71) 98461-1854
+TEST6411,Felipe Monteiro,444.860.349-54,22,Histórico médico 70,Medicação 4,Nenhuma,(51) 99612-8310
+TEST1814,Diego Barbosa,344.571.149-28,23,Histórico médico 12,Medicação 9,Nenhuma,(37) 96316-9620
+TEST3781,Priscila Ribeiro,656.909.826-12,40,Histórico médico 48,Medicação 1,Nenhuma,(24) 90211-6074
+TEST2470,Marcelo Araújo,532.581.250-54,22,Histórico médico 84,Medicação 2,Nenhuma,(59) 99827-7192
+TEST2688,Diego Barbosa,459.108.799-10,26,Histórico médico 65,Medicação 10,Nenhuma,(63) 96389-5974
+TEST1725,Vanessa Dias,647.624.638-28,29,Histórico médico 8,Medicação 3,Alergia 4,(17) 99872-5192
+TEST7471,Juliana Pereira,502.507.672-49,30,Histórico médico 74,Medicação 4,Nenhuma,(84) 92350-3257
+TEST1337,Ana Silva,358.777.722-58,29,Histórico médico 49,Medicação 3,Nenhuma,(74) 94590-5448
+TEST1759,Pedro Costa,300.380.422-14,31,Histórico médico 32,Medicação 5,Alergia 5,(39) 95146-6704
+TEST7523,Lucia Ferreira,759.300.752-83,28,Histórico médico 52,Medicação 7,Nenhuma,(54) 97419-7240
+TEST5265,Camila Sousa,581.611.526-40,33,Histórico médico 61,Medicação 7,Nenhuma,(19) 96954-5607
+TEST5407,Maria Santos,555.778.799-12,21,Histórico médico 71,Medicação 8,Nenhuma,(29) 94391-8968
+TEST5804,Priscila Ribeiro,841.796.602-34,26,Histórico médico 76,Medicação 9,Nenhuma,(20) 91366-9728
+TEST7486,Diego Barbosa,426.877.911-82,23,Histórico médico 35,Medicação 9,Nenhuma,(51) 90569-5195
+TEST3269,Pedro Costa,882.387.109-41,37,Histórico médico 47,Medicação 2,Nenhuma,(63) 95248-8783
+TEST7902,Rafael Almeida,657.706.391-66,31,Histórico médico 82,Medicação 6,Nenhuma,(88) 99764-8447
+TEST6374,Marcelo Araújo,445.411.151-43,34,Histórico médico 15,Medicação 4,Nenhuma,(30) 98675-9359
+TEST5599,Pedro Costa,859.975.742-52,26,Histórico médico 99,Medicação 10,Nenhuma,(81) 98871-9439
+TEST6809,Priscila Ribeiro,673.250.743-65,21,Histórico médico 32,Medicação 5,Nenhuma,(78) 98080-5100
+TEST1425,Camila Sousa,324.476.827-20,33,Histórico médico 22,Medicação 9,Nenhuma,(20) 99125-3645
+TEST6008,Diego Barbosa,591.329.458-98,21,Histórico médico 63,Medicação 7,Nenhuma,(33) 97995-5816
+TEST7764,Carlos Rodrigues,719.488.664-84,39,Histórico médico 85,Medicação 1,Nenhuma,(86) 99606-1256
+TEST1154,Fernanda Lima,961.194.768-62,29,Histórico médico 22,Medicação 1,Nenhuma,(65) 91948-4801
+TEST2462,Diego Barbosa,392.750.698-46,22,Histórico médico 89,Medicação 1,Nenhuma,(94) 90735-5257
+TEST3851,Felipe Monteiro,811.351.904-22,33,Histórico médico 20,Medicação 7,Nenhuma,(23) 92705-1621
+TEST1964,Gustavo Carvalho,928.581.932-96,25,Histórico médico 41,Medicação 3,Nenhuma,(56) 95401-4930
+TEST1597,João Oliveira,627.272.467-56,37,Histórico médico 27,Medicação 7,Alergia 1,(69) 95395-8994
+TEST2148,Carlos Rodrigues,502.461.905-23,36,Histórico médico 10,Medicação 4,Nenhuma,(64) 91814-7855
+TEST8066,Ana Silva,688.167.436-71,23,Histórico médico 13,Medicação 4,Nenhuma,(15) 94525-3260
+TEST1802,Bruno Martins,459.758.790-39,33,Histórico médico 3,Medicação 7,Nenhuma,(26) 90512-3127
+TEST5861,Vanessa Dias,473.988.960-80,30,Histórico médico 96,Medicação 2,Nenhuma,(86) 94356-4822
+TEST2532,Gustavo Carvalho,298.433.740-24,31,Histórico médico 37,Medicação 9,Nenhuma,(51) 92782-7237
+TEST1799,Camila Sousa,360.669.118-67,21,Histórico médico 82,Medicação 5,Nenhuma,(86) 95761-7159
+TEST9884,Rafael Almeida,879.456.372-55,24,Histórico médico 10,Medicação 4,Nenhuma,(72) 98119-5140
+TEST9068,Lucia Ferreira,220.310.567-67,37,Histórico médico 52,Medicação 5,Nenhuma,(39) 95518-5507
+TEST1392,João Oliveira,606.800.299-75,23,Histórico médico 37,Medicação 10,Nenhuma,(51) 96588-1079
+TEST3962,Juliana Pereira,323.983.447-99,24,Histórico médico 100,Medicação 8,Nenhuma,(87) 96398-6984
+TEST1969,Juliana Pereira,448.321.860-19,37,Histórico médico 5,Medicação 10,Alergia 3,(66) 93344-3797
+TEST3565,Lucia Ferreira,112.586.651-74,31,Histórico médico 66,Medicação 8,Nenhuma,(58) 98373-2561
+TEST2161,Leonardo Nascimento,713.840.821-50,36,Histórico médico 59,Medicação 2,Alergia 4,(41) 97815-8312
+TEST1185,Leonardo Nascimento,588.991.205-69,27,Histórico médico 47,Medicação 6,Nenhuma,(41) 97126-5033
+TEST5114,Renata Cardoso,847.127.479-59,20,Histórico médico 91,Medicação 6,Nenhuma,(42) 91779-8327
+TEST7952,Lucia Ferreira,220.697.277-59,33,Histórico médico 33,Medicação 3,Nenhuma,(95) 97151-3398
+TEST3825,Diego Barbosa,383.343.115-87,20,Histórico médico 14,Medicação 8,Nenhuma,(97) 97031-5837
+TEST1352,Bruno Martins,562.892.225-43,32,Histórico médico 55,Medicação 2,Nenhuma,(35) 93089-9359
+TEST7689,Felipe Monteiro,359.746.468-74,20,Histórico médico 10,Medicação 1,Nenhuma,(92) 95770-9897
+TEST7296,Bruno Martins,891.238.439-87,31,Histórico médico 27,Medicação 10,Nenhuma,(77) 92782-2778
+TEST7318,Lucia Ferreira,391.813.779-59,40,Histórico médico 20,Medicação 3,Nenhuma,(88) 94355-8433
+TEST5951,Ana Silva,808.217.482-14,29,Histórico médico 98,Medicação 6,Nenhuma,(17) 95044-3725
+TEST5772,Lucia Ferreira,208.455.614-52,23,Histórico médico 54,Medicação 7,Nenhuma,(82) 98236-2270
+TEST1564,Felipe Monteiro,791.173.886-89,25,Histórico médico 43,Medicação 3,Nenhuma,(47) 93975-8651
+TEST2594,Leonardo Nascimento,987.163.142-98,26,Histórico médico 54,Medicação 4,Nenhuma,(20) 95711-6874
+TEST6442,Bruno Martins,225.131.626-83,27,Histórico médico 98,Medicação 6,Nenhuma,(62) 97400-6681
+TEST3965,Ana Silva,965.546.842-20,40,Histórico médico 3,Medicação 3,Nenhuma,(93) 90110-6763
+TEST5472,Maria Santos,936.842.179-97,26,Histórico médico 83,Medicação 9,Nenhuma,(14) 97306-7099
+TEST2882,Juliana Pereira,848.758.894-27,37,Histórico médico 83,Medicação 6,Alergia 4,(63) 90222-6034
+TEST3063,Fernanda Lima,611.712.930-36,31,Histórico médico 19,Medicação 5,Nenhuma,(15) 93799-8301
+TEST4326,Marcelo Araújo,558.862.370-97,31,Histórico médico 71,Medicação 10,Nenhuma,(86) 94993-4066
+TEST1046,Tatiana Gomes,680.146.126-12,28,Histórico médico 81,Medicação 2,Nenhuma,(48) 90090-3813
+TEST7114,Felipe Monteiro,695.758.785-59,20,Histórico médico 19,Medicação 3,Nenhuma,(50) 98739-1860
+TEST4785,Gustavo Carvalho,535.531.128-10,39,Histórico médico 34,Medicação 5,Nenhuma,(82) 94080-7485
+TEST2145,Gustavo Carvalho,843.782.693-15,35,Histórico médico 9,Medicação 1,Nenhuma,(82) 92847-1387
+TEST5531,Diego Barbosa,605.742.430-13,39,Histórico médico 89,Medicação 10,Nenhuma,(93) 99949-2590
+TEST4262,Tatiana Gomes,976.529.555-45,30,Histórico médico 46,Medicação 3,Nenhuma,(25) 97476-3349
+TEST4193,Maria Santos,512.792.382-20,24,Histórico médico 27,Medicação 5,Nenhuma,(47) 98397-2318
+TEST2460,Tatiana Gomes,449.563.433-56,26,Histórico médico 72,Medicação 6,Alergia 2,(15) 90687-2407
+TEST5702,Fernanda Lima,340.916.629-65,33,Histórico médico 77,Medicação 4,Nenhuma,(94) 92251-8060
+TEST3393,Marcelo Araújo,541.699.156-35,20,Histórico médico 33,Medicação 5,Nenhuma,(83) 99795-7697
+TEST7026,Vanessa Dias,334.899.359-67,22,Histórico médico 83,Medicação 2,Alergia 5,(77) 94280-8773
+TEST3453,Camila Sousa,385.171.425-31,21,Histórico médico 15,Medicação 10,Nenhuma,(22) 96106-5682
+TEST2071,Bruno Martins,216.226.151-90,39,Histórico médico 36,Medicação 7,Nenhuma,(13) 99839-9098
+TEST2480,Lucia Ferreira,731.306.240-50,29,Histórico médico 5,Medicação 5,Nenhuma,(35) 98473-1045
+TEST7594,Tatiana Gomes,748.332.536-31,33,Histórico médico 16,Medicação 10,Nenhuma,(46) 92513-9197
+TEST7708,Camila Sousa,268.778.301-55,25,Histórico médico 76,Medicação 3,Nenhuma,(31) 99043-1680
+TEST2514,Juliana Pereira,626.214.861-87,28,Histórico médico 43,Medicação 1,Nenhuma,(20) 95628-9061
+TEST3527,Camila Sousa,355.321.899-40,40,Histórico médico 1,Medicação 9,Alergia 1,(83) 99481-5977
+TEST7538,Bruno Martins,420.397.260-19,29,Histórico médico 53,Medicação 4,Alergia 4,(22) 92567-5881
+TEST1334,Rafael Almeida,101.389.953-75,32,Histórico médico 38,Medicação 7,Alergia 5,(59) 94795-9323
+TEST9709,Leonardo Nascimento,457.426.134-92,31,Histórico médico 77,Medicação 4,Nenhuma,(31) 98632-3284
+TEST7705,Carlos Rodrigues,703.983.883-72,31,Histórico médico 4,Medicação 5,Nenhuma,(90) 98675-3852
+TEST4275,Camila Sousa,416.343.563-39,36,Histórico médico 90,Medicação 8,Nenhuma,(21) 92673-4468
+TEST1186,Leonardo Nascimento,461.555.192-49,32,Histórico médico 76,Medicação 9,Alergia 1,(43) 94230-3092
+TEST9858,Vanessa Dias,366.824.468-51,35,Histórico médico 53,Medicação 9,Nenhuma,(51) 93105-9084
+TEST7462,Lucia Ferreira,740.520.418-55,40,Histórico médico 33,Medicação 6,Nenhuma,(52) 91520-8101
+TEST2174,Lucia Ferreira,521.223.362-23,24,Histórico médico 85,Medicação 9,Nenhuma,(33) 94832-9997
+TEST3426,Tatiana Gomes,126.253.944-80,37,Histórico médico 37,Medicação 6,Nenhuma,(21) 96089-3713
+TEST4073,Tatiana Gomes,230.434.607-75,39,Histórico médico 46,Medicação 1,Nenhuma,(15) 93259-6329
+TEST7699,Fernanda Lima,221.399.452-50,37,Histórico médico 27,Medicação 6,Nenhuma,(96) 92207-3536
+TEST3562,Fernanda Lima,936.622.108-92,23,Histórico médico 98,Medicação 3,Nenhuma,(40) 97165-1470
+TEST3782,João Oliveira,388.152.264-46,20,Histórico médico 71,Medicação 3,Nenhuma,(83) 94447-8509
+TEST7552,Diego Barbosa,500.941.509-33,33,Histórico médico 8,Medicação 6,Nenhuma,(26) 92422-6832
+TEST5696,Maria Santos,904.892.696-52,30,Histórico médico 61,Medicação 8,Nenhuma,(90) 93720-1173
+TEST8717,Felipe Monteiro,112.387.426-96,35,Histórico médico 26,Medicação 3,Nenhuma,(81) 99376-3534
+TEST1919,Marcelo Araújo,421.323.108-26,34,Histórico médico 61,Medicação 4,Nenhuma,(58) 97889-4304
+TEST5438,Rafael Almeida,578.316.258-55,35,Histórico médico 37,Medicação 2,Alergia 2,(58) 93750-6987
+TEST8603,Lucia Ferreira,301.274.738-65,40,Histórico médico 47,Medicação 3,Nenhuma,(91) 96590-8185
+TEST1315,Maria Santos,672.597.652-62,29,Histórico médico 64,Medicação 2,Alergia 1,(27) 92849-1239
+TEST1202,Pedro Costa,596.573.788-58,28,Histórico médico 18,Medicação 9,Nenhuma,(71) 91784-3796
+TEST7344,Diego Barbosa,416.948.958-88,39,Histórico médico 20,Medicação 4,Alergia 2,(96) 92390-1630
+TEST5840,Maria Santos,649.671.169-68,26,Histórico médico 5,Medicação 7,Alergia 1,(97) 98178-2535
+TEST1766,Camila Sousa,766.770.148-96,35,Histórico médico 40,Medicação 8,Nenhuma,(19) 98734-7934
+TEST1722,Pedro Costa,568.244.946-11,32,Histórico médico 75,Medicação 6,Alergia 3,(65) 97567-3450
+TEST3602,Felipe Monteiro,958.749.198-92,27,Histórico médico 84,Medicação 9,Alergia 2,(41) 90577-1735
+TEST5085,Priscila Ribeiro,437.789.468-33,28,Histórico médico 26,Medicação 3,Nenhuma,(58) 99267-1711
+TEST9246,Gustavo Carvalho,759.621.805-77,33,Histórico médico 48,Medicação 6,Nenhuma,(97) 95325-8640
+TEST2864,Leonardo Nascimento,511.185.605-25,37,Histórico médico 72,Medicação 4,Alergia 4,(35) 97927-4729
+TEST6453,Priscila Ribeiro,299.219.318-20,26,Histórico médico 95,Medicação 1,Alergia 3,(40) 98160-5047
+TEST8971,Rafael Almeida,387.712.387-79,30,Histórico médico 92,Medicação 6,Alergia 5,(58) 93655-3961
+TEST3172,Marcelo Araújo,217.706.776-87,21,Histórico médico 35,Medicação 1,Nenhuma,(99) 95907-4560
+TEST2211,Carlos Rodrigues,440.957.465-32,25,Histórico médico 15,Medicação 10,Nenhuma,(48) 99504-3486
+TEST3083,Tatiana Gomes,960.470.512-70,34,Histórico médico 7,Medicação 2,Alergia 1,(73) 98651-3947
+TEST9211,Pedro Costa,295.860.257-70,33,Histórico médico 64,Medicação 8,Nenhuma,(93) 95395-8274
+TEST2311,Rafael Almeida,924.839.133-88,28,Histórico médico 16,Medicação 4,Nenhuma,(19) 97369-4578
+TEST5383,Rafael Almeida,914.844.641-97,24,Histórico médico 22,Medicação 7,Alergia 1,(57) 92637-1281
+TEST3503,Priscila Ribeiro,849.517.620-54,38,Histórico médico 44,Medicação 2,Nenhuma,(55) 95331-6938
+TEST9751,Maria Santos,256.404.534-26,28,Histórico médico 62,Medicação 10,Nenhuma,(77) 93276-6441
+TEST7460,Juliana Pereira,809.651.243-69,25,Histórico médico 43,Medicação 8,Nenhuma,(49) 96972-6233
+TEST1827,Marcelo Araújo,756.313.415-90,23,Histórico médico 15,Medicação 1,Nenhuma,(68) 96917-2428
+TEST3603,Diego Barbosa,418.687.364-47,24,Histórico médico 82,Medicação 5,Nenhuma,(12) 98493-4160
+TEST9925,Carlos Rodrigues,756.707.219-35,27,Histórico médico 82,Medicação 10,Alergia 3,(54) 99074-9748
+TEST3707,Carlos Rodrigues,939.905.181-20,37,Histórico médico 71,Medicação 8,Nenhuma,(85) 97509-9685
+TEST9810,Ana Silva,154.759.363-65,32,Histórico médico 98,Medicação 5,Nenhuma,(59) 98936-7373
+TEST1966,Rafael Almeida,455.710.580-55,39,Histórico médico 26,Medicação 5,Nenhuma,(12) 91175-9973
+TEST5254,Maria Santos,747.837.531-39,32,Histórico médico 55,Medicação 9,Nenhuma,(94) 94967-6677
+TEST1019,Leonardo Nascimento,660.781.934-73,35,Histórico médico 23,Medicação 6,Nenhuma,(73) 94823-6179
+TEST5311,Priscila Ribeiro,351.190.486-68,24,Histórico médico 66,Medicação 2,Nenhuma,(57) 97361-5306
+TEST6066,Fernanda Lima,833.833.240-48,35,Histórico médico 29,Medicação 2,Alergia 5,(78) 97208-3344
+TEST3413,Camila Sousa,283.117.123-72,39,Histórico médico 95,Medicação 10,Nenhuma,(35) 92601-1883
+TEST7725,Lucia Ferreira,595.642.659-71,20,Histórico médico 42,Medicação 9,Alergia 5,(12) 96297-9277
+TEST6050,Marcelo Araújo,557.921.195-79,38,Histórico médico 15,Medicação 3,Nenhuma,(11) 93531-7476
+TEST9793,Bruno Martins,511.688.866-77,38,Histórico médico 91,Medicação 3,Alergia 3,(19) 91113-1463
+TEST7299,Gustavo Carvalho,106.959.640-27,26,Histórico médico 80,Medicação 1,Nenhuma,(34) 99038-3885
+TEST3651,Marcelo Araújo,984.700.272-14,20,Histórico médico 4,Medicação 2,Alergia 1,(48) 94043-5760
+TEST3113,Carlos Rodrigues,317.752.852-71,26,Histórico médico 89,Medicação 3,Nenhuma,(49) 93373-9807
+TEST1950,Lucia Ferreira,307.839.622-55,23,Histórico médico 3,Medicação 6,Nenhuma,(35) 97001-8683
+TEST4880,Diego Barbosa,921.691.775-92,26,Histórico médico 43,Medicação 8,Nenhuma,(78) 95400-6508
+TEST9560,Leonardo Nascimento,497.529.912-92,28,Histórico médico 45,Medicação 4,Nenhuma,(52) 97628-8967
+TEST7532,Bruno Martins,989.301.438-68,33,Histórico médico 95,Medicação 1,Nenhuma,(24) 92875-2543
+TEST1531,Rafael Almeida,919.694.920-37,34,Histórico médico 94,Medicação 9,Alergia 1,(33) 91249-9362
+TEST9934,Ana Silva,973.903.867-94,20,Histórico médico 60,Medicação 7,Nenhuma,(97) 93711-9234
+TEST2949,Diego Barbosa,379.193.708-76,25,Histórico médico 20,Medicação 3,Alergia 2,(37) 91756-8088
+TEST5519,Leonardo Nascimento,182.656.268-85,29,Histórico médico 75,Medicação 3,Nenhuma,(60) 95390-2759
+TEST4526,Juliana Pereira,427.335.208-28,26,Histórico médico 83,Medicação 9,Nenhuma,(66) 96059-7247
+TEST9160,Felipe Monteiro,864.313.969-56,26,Histórico médico 58,Medicação 2,Alergia 4,(51) 96803-1593
+TEST5460,Rafael Almeida,276.297.985-49,37,Histórico médico 99,Medicação 4,Nenhuma,(20) 92598-3168
+TEST4184,Gustavo Carvalho,319.193.370-95,21,Histórico médico 100,Medicação 4,Nenhuma,(41) 92120-5078
+TEST8536,Vanessa Dias,612.188.547-87,35,Histórico médico 52,Medicação 1,Nenhuma,(51) 92562-3392
+TEST4117,Vanessa Dias,127.445.837-32,31,Histórico médico 85,Medicação 7,Nenhuma,(98) 92380-3247
+TEST7919,Camila Sousa,527.808.261-68,22,Histórico médico 88,Medicação 8,Nenhuma,(11) 92024-8160
+TEST8424,Felipe Monteiro,322.976.491-79,26,Histórico médico 3,Medicação 4,Alergia 2,(11) 91551-4170
+TEST9382,Carlos Rodrigues,418.636.557-10,31,Histórico médico 75,Medicação 10,Nenhuma,(89) 94279-1721
+TEST8180,Tatiana Gomes,465.311.258-63,21,Histórico médico 57,Medicação 3,Nenhuma,(12) 96457-8853
+TEST1910,Lucia Ferreira,702.440.185-23,22,Histórico médico 62,Medicação 9,Nenhuma,(78) 92433-6630
+TEST3678,Rafael Almeida,215.747.585-93,27,Histórico médico 71,Medicação 4,Alergia 2,(26) 98781-4008
+TEST1696,Leonardo Nascimento,352.192.453-76,33,Histórico médico 15,Medicação 10,Nenhuma,(61) 93258-6023
+TEST2146,Renata Cardoso,758.865.838-35,31,Histórico médico 80,Medicação 7,Nenhuma,(82) 95226-4507
+TEST2378,Rafael Almeida,193.481.583-52,36,Histórico médico 85,Medicação 8,Nenhuma,(85) 93066-9136
+TEST5090,Carlos Rodrigues,780.309.853-26,33,Histórico médico 9,Medicação 7,Alergia 2,(27) 98484-7006
+TEST2216,Vanessa Dias,878.228.774-12,33,Histórico médico 86,Medicação 5,Alergia 5,(17) 91343-3428
+TEST4870,Marcelo Araújo,753.773.860-55,20,Histórico médico 83,Medicação 7,Nenhuma,(77) 90456-8849
+TEST6350,Maria Santos,582.519.377-34,28,Histórico médico 10,Medicação 2,Nenhuma,(22) 90499-2666
+TEST3090,Leonardo Nascimento,559.334.783-79,26,Histórico médico 98,Medicação 7,Nenhuma,(65) 98208-9918
+TEST1041,Diego Barbosa,111.385.144-46,34,Histórico médico 99,Medicação 2,Alergia 4,(63) 96943-9036
+TEST6804,Renata Cardoso,829.792.731-43,37,Histórico médico 81,Medicação 8,Nenhuma,(50) 90698-3438
+TEST1158,Vanessa Dias,867.232.804-85,28,Histórico médico 69,Medicação 2,Alergia 1,(78) 91121-8502
+TEST1386,Camila Sousa,361.949.337-17,32,Histórico médico 99,Medicação 4,Nenhuma,(88) 93241-1144
+TEST4912,Leonardo Nascimento,860.842.465-19,32,Histórico médico 81,Medicação 9,Nenhuma,(60) 97300-9336
+TEST4652,Felipe Monteiro,840.173.797-25,36,Histórico médico 12,Medicação 2,Alergia 2,(26) 91165-9482
+TEST7551,Carlos Rodrigues,160.872.662-72,20,Histórico médico 31,Medicação 6,Nenhuma,(28) 98734-4581
+TEST5039,Tatiana Gomes,989.111.465-62,32,Histórico médico 55,Medicação 4,Nenhuma,(17) 94107-5163
+TEST8276,Leonardo Nascimento,175.676.322-13,22,Histórico médico 48,Medicação 2,Nenhuma,(43) 97860-8536
+TEST1114,Carlos Rodrigues,457.547.145-38,30,Histórico médico 81,Medicação 8,Nenhuma,(48) 95006-7676
+TEST9848,Vanessa Dias,421.899.644-85,28,Histórico médico 12,Medicação 4,Nenhuma,(50) 98944-4274
+TEST4533,Felipe Monteiro,431.487.127-80,31,Histórico médico 93,Medicação 4,Nenhuma,(23) 92117-7700
+TEST2865,Camila Sousa,935.126.364-77,40,Histórico médico 100,Medicação 4,Nenhuma,(49) 90182-5254
+TEST9987,Ana Silva,589.814.105-15,28,Histórico médico 90,Medicação 3,Nenhuma,(25) 94604-6150
+TEST3501,Gustavo Carvalho,995.447.984-56,28,Histórico médico 84,Medicação 10,Nenhuma,(80) 91074-6399
+TEST5337,Carlos Rodrigues,371.102.839-86,32,Histórico médico 61,Medicação 8,Nenhuma,(75) 99068-8133
+TEST9762,Carlos Rodrigues,628.713.965-61,40,Histórico médico 71,Medicação 3,Alergia 4,(20) 92852-4218
+TEST1953,Fernanda Lima,481.509.304-20,39,Histórico médico 85,Medicação 9,Nenhuma,(11) 94485-7265
+TEST1839,Diego Barbosa,473.429.997-93,33,Histórico médico 45,Medicação 10,Alergia 5,(65) 93406-4626
+TEST3652,Tatiana Gomes,201.605.462-24,24,Histórico médico 6,Medicação 10,Nenhuma,(95) 95243-5472
+TEST4627,Juliana Pereira,201.638.338-82,25,Histórico médico 90,Medicação 9,Alergia 5,(52) 95460-8356
+TEST2638,Bruno Martins,440.120.185-23,29,Histórico médico 33,Medicação 4,Nenhuma,(16) 93434-9750
+TEST2582,João Oliveira,788.215.396-23,24,Histórico médico 57,Medicação 3,Nenhuma,(15) 94865-4744
+TEST6927,Carlos Rodrigues,217.237.372-11,30,Histórico médico 39,Medicação 7,Nenhuma,(22) 91641-2101
+TEST1613,Vanessa Dias,766.235.387-70,26,Histórico médico 51,Medicação 5,Nenhuma,(98) 94291-7939
+TEST4543,Bruno Martins,794.371.757-88,20,Histórico médico 44,Medicação 10,Nenhuma,(62) 90381-2897
+TEST4279,Maria Santos,339.138.735-78,40,Histórico médico 83,Medicação 10,Nenhuma,(93) 95212-3116
+TEST6687,Fernanda Lima,950.510.267-95,24,Histórico médico 53,Medicação 10,Nenhuma,(11) 96698-3806
+TEST7495,Maria Santos,566.682.489-27,22,Histórico médico 88,Medicação 6,Nenhuma,(32) 95849-8086
+TEST9514,João Oliveira,545.874.756-47,24,Histórico médico 73,Medicação 6,Nenhuma,(66) 90906-2332
+TEST4528,Rafael Almeida,686.603.762-39,34,Histórico médico 87,Medicação 5,Nenhuma,(34) 95294-4337
+TEST1275,Juliana Pereira,537.859.302-70,36,Histórico médico 71,Medicação 10,Alergia 4,(60) 94317-4115
+TEST9776,Fernanda Lima,357.915.105-76,40,Histórico médico 36,Medicação 2,Nenhuma,(57) 90830-2587
+TEST4095,Fernanda Lima,893.855.574-69,22,Histórico médico 19,Medicação 8,Nenhuma,(13) 96501-1133
+TEST5279,Tatiana Gomes,914.432.602-95,33,Histórico médico 30,Medicação 1,Alergia 4,(64) 99074-3520
+TEST9712,Vanessa Dias,532.750.355-72,25,Histórico médico 33,Medicação 8,Nenhuma,(23) 97734-4031
+TEST8732,Bruno Martins,376.464.332-38,20,Histórico médico 46,Medicação 5,Nenhuma,(30) 90742-2683
+TEST7444,Camila Sousa,539.848.287-40,26,Histórico médico 68,Medicação 5,Nenhuma,(66) 96375-4624
+TEST5396,Carlos Rodrigues,175.774.328-71,31,Histórico médico 12,Medicação 7,Alergia 3,(29) 96374-5485
+TEST8398,Renata Cardoso,231.703.500-22,20,Histórico médico 26,Medicação 1,Nenhuma,(88) 96014-4845
+TEST7175,Pedro Costa,702.646.160-44,36,Histórico médico 56,Medicação 3,Alergia 1,(38) 94990-9926
+TEST7623,Carlos Rodrigues,138.665.998-77,30,Histórico médico 31,Medicação 4,Nenhuma,(78) 96592-7424
+TEST5476,Vanessa Dias,537.602.408-81,31,Histórico médico 45,Medicação 9,Nenhuma,(78) 99628-6792
+TEST7071,Felipe Monteiro,153.760.121-91,32,Histórico médico 2,Medicação 6,Alergia 2,(48) 98787-6164
+TEST5555,Leonardo Nascimento,708.224.798-46,22,Histórico médico 72,Medicação 8,Nenhuma,(80) 93444-6754
+TEST9606,Gustavo Carvalho,650.752.161-41,37,Histórico médico 35,Medicação 4,Alergia 5,(59) 94315-3577
+TEST6686,Maria Santos,609.526.348-91,27,Histórico médico 7,Medicação 3,Nenhuma,(60) 92392-7760
+TEST2460,Carlos Rodrigues,757.264.508-96,35,Histórico médico 35,Medicação 10,Nenhuma,(72) 98235-4087
+TEST2346,Carlos Rodrigues,715.321.940-33,37,Histórico médico 65,Medicação 7,Nenhuma,(28) 97242-5860
+TEST3072,Carlos Rodrigues,259.220.108-53,39,Histórico médico 8,Medicação 4,Alergia 1,(84) 95466-1436
+TEST6122,Pedro Costa,292.166.919-47,32,Histórico médico 39,Medicação 4,Nenhuma,(66) 90810-5407
+TEST2570,Pedro Costa,974.261.538-95,29,Histórico médico 44,Medicação 1,Nenhuma,(30) 96101-6787
+TEST2932,Pedro Costa,703.911.296-86,30,Histórico médico 35,Medicação 9,Alergia 3,(55) 93200-2184
+TEST8985,Juliana Pereira,533.195.394-54,21,Histórico médico 81,Medicação 3,Nenhuma,(13) 97656-7343
+TEST9878,Camila Sousa,124.543.512-30,24,Histórico médico 81,Medicação 7,Nenhuma,(17) 90808-3295
+TEST6422,Priscila Ribeiro,841.701.444-20,32,Histórico médico 87,Medicação 6,Nenhuma,(34) 97761-5342
+TEST9908,Juliana Pereira,455.726.145-40,28,Histórico médico 84,Medicação 3,Nenhuma,(52) 97170-7830
+TEST5847,Vanessa Dias,428.297.432-35,39,Histórico médico 72,Medicação 1,Nenhuma,(66) 90185-5923
+TEST4497,Rafael Almeida,177.296.544-42,25,Histórico médico 76,Medicação 3,Alergia 3,(50) 95341-3102
+TEST1237,Juliana Pereira,277.719.646-26,37,Histórico médico 76,Medicação 1,Alergia 5,(77) 93009-8381
+TEST5016,Tatiana Gomes,199.405.616-88,21,Histórico médico 48,Medicação 10,Nenhuma,(98) 91974-2269
+TEST5916,Vanessa Dias,644.404.670-87,35,Histórico médico 65,Medicação 10,Alergia 1,(81) 91618-7241
+TEST1703,Carlos Rodrigues,776.151.395-55,35,Histórico médico 26,Medicação 8,Nenhuma,(83) 96372-8589
+TEST3772,Marcelo Araújo,377.409.401-72,29,Histórico médico 24,Medicação 6,Nenhuma,(90) 98200-5579
+TEST9862,Leonardo Nascimento,481.616.457-91,29,Histórico médico 37,Medicação 4,Alergia 2,(63) 92816-5779
+TEST9011,Ana Silva,885.957.859-95,36,Histórico médico 51,Medicação 10,Nenhuma,(96) 96392-5220
+TEST3749,Vanessa Dias,579.552.427-87,24,Histórico médico 43,Medicação 6,Alergia 2,(95) 92118-7924
+TEST7714,Fernanda Lima,899.552.670-40,40,Histórico médico 81,Medicação 7,Alergia 2,(54) 96811-7723
+TEST5050,Juliana Pereira,606.630.513-97,23,Histórico médico 90,Medicação 10,Alergia 5,(41) 97992-4658
+TEST9578,Pedro Costa,458.933.437-36,33,Histórico médico 8,Medicação 1,Nenhuma,(93) 90096-7301
+TEST9748,Fernanda Lima,525.833.833-14,27,Histórico médico 67,Medicação 4,Nenhuma,(57) 92916-3649
+TEST2608,Juliana Pereira,844.654.917-34,22,Histórico médico 93,Medicação 9,Nenhuma,(48) 91129-5900
+TEST6824,João Oliveira,579.218.619-92,21,Histórico médico 52,Medicação 2,Alergia 4,(92) 97532-8821
+TEST1143,Vanessa Dias,408.174.958-61,33,Histórico médico 27,Medicação 2,Nenhuma,(97) 90966-7745
+TEST1757,Carlos Rodrigues,884.314.592-61,20,Histórico médico 85,Medicação 3,Nenhuma,(86) 91302-6579
+TEST5857,Pedro Costa,222.494.856-43,35,Histórico médico 79,Medicação 2,Nenhuma,(59) 98609-5930
+TEST7861,Rafael Almeida,803.489.865-50,38,Histórico médico 89,Medicação 2,Nenhuma,(86) 99351-1758
+TEST8359,Lucia Ferreira,683.382.909-49,21,Histórico médico 81,Medicação 1,Alergia 2,(53) 90184-1378
+TEST2825,Maria Santos,887.966.248-19,36,Histórico médico 100,Medicação 4,Alergia 4,(93) 99145-3962
+TEST7139,Tatiana Gomes,503.486.674-21,35,Histórico médico 13,Medicação 1,Nenhuma,(37) 96747-9235
+TEST6834,Rafael Almeida,751.358.779-33,34,Histórico médico 83,Medicação 5,Nenhuma,(35) 97294-2261
+TEST2982,Priscila Ribeiro,151.398.815-75,31,Histórico médico 16,Medicação 3,Nenhuma,(95) 98347-5411
+TEST5478,Lucia Ferreira,554.991.700-62,26,Histórico médico 23,Medicação 8,Nenhuma,(90) 96246-7471
+TEST2905,Rafael Almeida,849.284.787-15,29,Histórico médico 91,Medicação 7,Alergia 4,(54) 94505-8641
+TEST7097,Priscila Ribeiro,571.776.742-78,26,Histórico médico 2,Medicação 10,Nenhuma,(60) 98709-7306
+TEST3014,João Oliveira,575.703.689-61,33,Histórico médico 37,Medicação 1,Alergia 4,(17) 95644-2969
+TEST5706,Ana Silva,440.984.579-65,36,Histórico médico 56,Medicação 9,Alergia 5,(24) 92138-2353
+TEST6040,Carlos Rodrigues,250.582.904-21,30,Histórico médico 6,Medicação 5,Nenhuma,(81) 99995-7250
+TEST6482,Lucia Ferreira,511.586.230-77,21,Histórico médico 14,Medicação 2,Nenhuma,(26) 95271-3950
+TEST1031,Ana Silva,310.787.866-20,38,Histórico médico 8,Medicação 4,Nenhuma,(90) 90642-9625
+TEST7456,Vanessa Dias,653.632.858-80,29,Histórico médico 49,Medicação 10,Nenhuma,(98) 99538-9856
+TEST8708,Rafael Almeida,482.385.403-61,40,Histórico médico 9,Medicação 4,Nenhuma,(17) 97177-1898
+TEST7278,Carlos Rodrigues,577.955.482-84,32,Histórico médico 92,Medicação 10,Nenhuma,(70) 92620-8306
+TEST8164,João Oliveira,472.702.649-45,21,Histórico médico 58,Medicação 4,Nenhuma,(49) 93634-9098
+TEST7445,Pedro Costa,536.640.770-61,34,Histórico médico 95,Medicação 6,Nenhuma,(14) 95053-5334
+TEST3117,Leonardo Nascimento,757.330.337-68,24,Histórico médico 27,Medicação 4,Alergia 3,(24) 93249-6716
+TEST9622,Juliana Pereira,544.953.466-58,40,Histórico médico 81,Medicação 1,Nenhuma,(50) 97558-8170
+TEST8805,Vanessa Dias,688.672.516-35,28,Histórico médico 73,Medicação 3,Alergia 3,(33) 91336-2763
+TEST8966,Leonardo Nascimento,845.420.462-89,22,Histórico médico 84,Medicação 6,Nenhuma,(69) 91551-1365
+TEST9006,João Oliveira,411.339.216-13,36,Histórico médico 97,Medicação 9,Nenhuma,(40) 98750-7924
+TEST2791,Juliana Pereira,746.807.790-11,32,Histórico médico 58,Medicação 4,Nenhuma,(36) 99753-1456
+TEST5021,Juliana Pereira,363.660.133-84,30,Histórico médico 40,Medicação 5,Nenhuma,(55) 98816-6707
+TEST8789,Bruno Martins,600.111.186-50,34,Histórico médico 93,Medicação 1,Nenhuma,(43) 96310-1293
+TEST7754,Tatiana Gomes,421.487.592-64,38,Histórico médico 10,Medicação 2,Nenhuma,(74) 91288-8521
+TEST7371,Bruno Martins,980.151.120-77,25,Histórico médico 46,Medicação 6,Nenhuma,(99) 90068-8681
+TEST3988,Fernanda Lima,378.604.825-47,23,Histórico médico 66,Medicação 9,Nenhuma,(54) 98815-6002
+TEST4682,Juliana Pereira,794.513.701-84,35,Histórico médico 9,Medicação 5,Alergia 5,(22) 98192-3181
+TEST9018,Fernanda Lima,370.259.831-43,27,Histórico médico 27,Medicação 10,Alergia 3,(46) 96910-3883
+TEST8142,Lucia Ferreira,969.986.783-15,31,Histórico médico 68,Medicação 8,Nenhuma,(85) 96385-6155
+TEST1196,Carlos Rodrigues,923.208.319-80,22,Histórico médico 37,Medicação 6,Nenhuma,(34) 98503-6561
+TEST5167,Juliana Pereira,317.144.278-45,31,Histórico médico 99,Medicação 2,Nenhuma,(15) 94162-7209
+TEST9404,Juliana Pereira,436.628.989-51,27,Histórico médico 30,Medicação 7,Nenhuma,(52) 96918-9631
+TEST6005,Renata Cardoso,785.996.262-20,29,Histórico médico 22,Medicação 7,Nenhuma,(94) 90631-3420
+TEST9745,Diego Barbosa,308.126.779-74,33,Histórico médico 95,Medicação 6,Nenhuma,(81) 90903-4908
+TEST2854,Tatiana Gomes,956.747.186-78,38,Histórico médico 35,Medicação 8,Alergia 5,(24) 96454-6720
+TEST7554,Camila Sousa,499.974.995-41,21,Histórico médico 48,Medicação 1,Alergia 1,(31) 99917-2793
+TEST3893,Juliana Pereira,630.136.552-80,26,Histórico médico 62,Medicação 6,Alergia 2,(76) 94942-7177
+TEST4527,Ana Silva,964.988.485-34,24,Histórico médico 34,Medicação 7,Nenhuma,(32) 94644-2172
+TEST5824,Carlos Rodrigues,688.208.143-66,30,Histórico médico 36,Medicação 7,Alergia 3,(43) 97238-9604
+TEST5653,Pedro Costa,701.816.488-52,30,Histórico médico 62,Medicação 4,Nenhuma,(87) 95259-4318
+TEST7097,João Oliveira,213.286.239-64,29,Histórico médico 63,Medicação 7,Nenhuma,(45) 98617-5637
+TEST5415,Tatiana Gomes,410.561.898-47,28,Histórico médico 64,Medicação 9,Nenhuma,(53) 97236-1951
+TEST6130,Fernanda Lima,445.723.412-95,29,Histórico médico 84,Medicação 9,Nenhuma,(35) 98633-7005
+TEST1902,Ana Silva,777.995.880-66,34,Histórico médico 67,Medicação 5,Nenhuma,(66) 92120-5635
+TEST7725,Renata Cardoso,714.813.243-40,40,Histórico médico 33,Medicação 3,Nenhuma,(69) 98018-1256
+TEST6105,Diego Barbosa,767.317.146-58,39,Histórico médico 73,Medicação 6,Nenhuma,(90) 96751-3234
+TEST4919,Lucia Ferreira,950.799.469-38,21,Histórico médico 12,Medicação 6,Nenhuma,(19) 98418-3100
+TEST5775,Pedro Costa,929.245.617-49,25,Histórico médico 55,Medicação 5,Nenhuma,(70) 99628-7348
+TEST4371,Camila Sousa,928.418.254-91,34,Histórico médico 11,Medicação 5,Nenhuma,(12) 91159-7039
+TEST5148,Pedro Costa,288.368.168-51,25,Histórico médico 4,Medicação 10,Nenhuma,(42) 91076-2408
+TEST1866,Bruno Martins,453.868.976-68,23,Histórico médico 54,Medicação 1,Alergia 3,(44) 95667-4884
+TEST3507,Diego Barbosa,254.583.762-33,32,Histórico médico 100,Medicação 10,Alergia 5,(17) 93294-9564
+TEST9867,Pedro Costa,105.239.689-52,40,Histórico médico 27,Medicação 10,Nenhuma,(86) 90425-1812
+TEST6297,Carlos Rodrigues,494.714.248-28,21,Histórico médico 9,Medicação 3,Alergia 2,(61) 93415-6647
+TEST8339,Priscila Ribeiro,937.689.359-76,34,Histórico médico 21,Medicação 9,Nenhuma,(14) 98297-5820
+TEST6954,Pedro Costa,388.651.874-33,22,Histórico médico 9,Medicação 5,Nenhuma,(27) 90212-3007
+TEST6858,Gustavo Carvalho,420.450.657-99,23,Histórico médico 83,Medicação 6,Nenhuma,(60) 95739-7160
+TEST8482,Rafael Almeida,792.510.479-37,38,Histórico médico 60,Medicação 4,Nenhuma,(94) 95653-5783
+TEST3851,Renata Cardoso,996.198.194-63,29,Histórico médico 100,Medicação 8,Nenhuma,(90) 96377-2403
+TEST8598,Diego Barbosa,957.414.139-27,21,Histórico médico 16,Medicação 2,Nenhuma,(44) 94823-7074
+TEST6359,Priscila Ribeiro,397.253.983-71,31,Histórico médico 21,Medicação 5,Nenhuma,(40) 97697-2926
+TEST6800,Renata Cardoso,336.275.708-92,29,Histórico médico 18,Medicação 6,Alergia 2,(31) 97630-8879
+TEST6705,Gustavo Carvalho,161.282.595-57,21,Histórico médico 89,Medicação 5,Alergia 3,(68) 95415-3109
+TEST5397,Priscila Ribeiro,316.128.736-36,40,Histórico médico 9,Medicação 8,Alergia 4,(92) 93125-6308
+TEST7681,Tatiana Gomes,674.938.701-38,24,Histórico médico 72,Medicação 7,Nenhuma,(77) 97767-9956
+TEST7491,Renata Cardoso,968.648.125-91,40,Histórico médico 43,Medicação 6,Nenhuma,(27) 95048-2497
+TEST5901,Bruno Martins,349.153.253-29,32,Histórico médico 98,Medicação 9,Nenhuma,(48) 91882-4746
+TEST6905,Pedro Costa,546.448.142-34,32,Histórico médico 78,Medicação 5,Nenhuma,(86) 97884-8172
+TEST2075,Pedro Costa,387.207.899-27,33,Histórico médico 80,Medicação 1,Nenhuma,(18) 92724-5135
+TEST6681,Priscila Ribeiro,393.635.161-15,39,Histórico médico 30,Medicação 1,Alergia 4,(16) 96790-1945
+TEST3597,Vanessa Dias,509.640.177-58,31,Histórico médico 67,Medicação 10,Alergia 4,(43) 90558-9569
+TEST9921,João Oliveira,884.548.739-26,35,Histórico médico 42,Medicação 2,Nenhuma,(25) 98599-2266
+TEST2017,Juliana Pereira,289.522.338-62,31,Histórico médico 97,Medicação 10,Nenhuma,(92) 90381-7454
+TEST1053,Pedro Costa,853.462.861-37,32,Histórico médico 19,Medicação 8,Alergia 1,(51) 92495-3279
+TEST3075,Camila Sousa,980.824.156-37,32,Histórico médico 61,Medicação 5,Nenhuma,(92) 99009-1459
+TEST5314,Leonardo Nascimento,628.601.446-16,39,Histórico médico 64,Medicação 1,Nenhuma,(27) 97013-7661
+TEST7310,Carlos Rodrigues,131.141.579-77,38,Histórico médico 90,Medicação 7,Nenhuma,(39) 96118-3147
+TEST9681,Leonardo Nascimento,271.916.562-23,35,Histórico médico 38,Medicação 9,Nenhuma,(43) 99735-1764
+TEST7469,Bruno Martins,938.752.923-32,39,Histórico médico 4,Medicação 1,Nenhuma,(24) 92836-1813
+TEST9389,Ana Silva,578.422.397-28,38,Histórico médico 47,Medicação 1,Alergia 4,(45) 97494-8358
+TEST2203,João Oliveira,552.797.888-47,30,Histórico médico 25,Medicação 5,Nenhuma,(93) 91669-4785
+TEST9668,Renata Cardoso,176.276.880-83,25,Histórico médico 10,Medicação 4,Alergia 4,(59) 97013-6142
+TEST5380,Carlos Rodrigues,389.816.639-40,31,Histórico médico 88,Medicação 4,Nenhuma,(94) 90913-6609
+TEST6346,Felipe Monteiro,297.104.838-63,30,Histórico médico 47,Medicação 6,Nenhuma,(46) 90858-1286
+TEST5146,Lucia Ferreira,165.469.985-85,20,Histórico médico 53,Medicação 7,Nenhuma,(73) 96205-7417
+TEST5248,Diego Barbosa,253.292.164-39,25,Histórico médico 92,Medicação 7,Nenhuma,(14) 97901-5563
+TEST6259,Tatiana Gomes,891.569.893-64,35,Histórico médico 76,Medicação 9,Nenhuma,(45) 94880-5612
+TEST9454,Ana Silva,726.792.432-33,20,Histórico médico 96,Medicação 1,Alergia 2,(17) 98526-1281
+TEST6449,João Oliveira,678.697.414-33,30,Histórico médico 14,Medicação 1,Nenhuma,(97) 98213-8717
+TEST9966,Priscila Ribeiro,701.455.849-77,39,Histórico médico 47,Medicação 8,Nenhuma,(72) 94817-7017
+TEST4869,Tatiana Gomes,391.985.237-70,30,Histórico médico 66,Medicação 10,Alergia 2,(84) 93346-7568
+TEST1585,Diego Barbosa,692.855.900-12,26,Histórico médico 28,Medicação 9,Alergia 5,(52) 94407-6818
+TEST5769,Camila Sousa,590.444.154-25,32,Histórico médico 21,Medicação 6,Nenhuma,(93) 95786-2085
+TEST1072,Fernanda Lima,752.661.281-12,35,Histórico médico 64,Medicação 10,Nenhuma,(73) 96891-3067
+TEST4944,Gustavo Carvalho,296.517.641-83,37,Histórico médico 65,Medicação 4,Alergia 4,(61) 97192-9198
+TEST9076,Marcelo Araújo,142.791.791-80,29,Histórico médico 34,Medicação 8,Alergia 3,(65) 92817-2210
+TEST8865,Camila Sousa,835.101.629-55,20,Histórico médico 64,Medicação 6,Nenhuma,(59) 95716-1111
+TEST7982,Camila Sousa,541.967.177-15,38,Histórico médico 67,Medicação 7,Nenhuma,(66) 93567-4203
+TEST5241,Tatiana Gomes,730.241.654-79,40,Histórico médico 18,Medicação 4,Alergia 4,(80) 96626-1800
+TEST4434,Lucia Ferreira,836.681.598-17,20,Histórico médico 94,Medicação 6,Nenhuma,(52) 90248-7956
+TEST8826,Priscila Ribeiro,317.719.796-56,21,Histórico médico 55,Medicação 1,Alergia 2,(90) 96044-2217
+TEST1508,Maria Santos,351.236.950-47,36,Histórico médico 55,Medicação 10,Nenhuma,(26) 97627-7788
+TEST2505,Lucia Ferreira,104.603.417-93,20,Histórico médico 64,Medicação 5,Nenhuma,(48) 91101-9236
+TEST7764,Juliana Pereira,751.257.447-63,21,Histórico médico 24,Medicação 6,Nenhuma,(19) 97964-4363
+TEST2930,Priscila Ribeiro,769.478.675-23,24,Histórico médico 19,Medicação 6,Nenhuma,(33) 99696-4232
+TEST2218,Marcelo Araújo,562.507.601-87,20,Histórico médico 24,Medicação 5,Nenhuma,(39) 94652-1442
+TEST9149,Fernanda Lima,420.191.370-49,38,Histórico médico 85,Medicação 3,Nenhuma,(71) 95918-6493
+TEST3977,Maria Santos,750.201.163-33,29,Histórico médico 70,Medicação 7,Nenhuma,(30) 96930-7883
+TEST2299,Juliana Pereira,917.522.832-74,39,Histórico médico 46,Medicação 3,Alergia 5,(92) 96292-4691
+TEST2605,Lucia Ferreira,149.503.501-12,31,Histórico médico 29,Medicação 5,Alergia 1,(86) 97567-1540
+TEST7812,Camila Sousa,106.860.671-21,29,Histórico médico 57,Medicação 1,Nenhuma,(36) 98388-9263
+TEST7544,Leonardo Nascimento,332.795.557-44,36,Histórico médico 39,Medicação 6,Nenhuma,(26) 94080-8196
+TEST2245,Marcelo Araújo,992.604.571-71,26,Histórico médico 48,Medicação 2,Alergia 2,(43) 94304-2287
+TEST6234,João Oliveira,926.776.772-67,31,Histórico médico 36,Medicação 4,Alergia 1,(61) 99238-7506
+TEST9450,Leonardo Nascimento,871.171.472-93,22,Histórico médico 23,Medicação 2,Alergia 2,(62) 91520-6903
+TEST7395,Renata Cardoso,668.858.332-65,38,Histórico médico 28,Medicação 2,Nenhuma,(45) 91125-1937
+TEST4672,Fernanda Lima,514.350.630-92,37,Histórico médico 81,Medicação 10,Nenhuma,(47) 98865-7884
+TEST1912,Leonardo Nascimento,393.398.781-93,40,Histórico médico 77,Medicação 8,Nenhuma,(49) 98598-7627
+TEST2007,Bruno Martins,493.526.514-40,31,Histórico médico 69,Medicação 8,Alergia 4,(91) 97200-9609
+TEST2965,Fernanda Lima,170.854.569-98,36,Histórico médico 19,Medicação 3,Nenhuma,(28) 95543-8876
+TEST7210,Felipe Monteiro,395.399.469-13,29,Histórico médico 49,Medicação 6,Nenhuma,(99) 97723-7029
+TEST6485,Lucia Ferreira,258.311.432-65,30,Histórico médico 29,Medicação 10,Nenhuma,(19) 92712-1567
+TEST2853,Rafael Almeida,152.276.409-64,24,Histórico médico 84,Medicação 5,Nenhuma,(98) 92829-5888
+TEST4015,Carlos Rodrigues,825.871.334-94,25,Histórico médico 18,Medicação 5,Nenhuma,(63) 94443-5210
+TEST3885,Juliana Pereira,237.802.595-51,34,Histórico médico 11,Medicação 2,Nenhuma,(76) 96786-9601
+TEST2119,Lucia Ferreira,540.158.460-40,29,Histórico médico 87,Medicação 4,Nenhuma,(64) 95855-6565
+TEST9571,Lucia Ferreira,348.531.519-83,28,Histórico médico 8,Medicação 1,Nenhuma,(88) 98817-3579
+TEST5649,Renata Cardoso,467.776.216-27,23,Histórico médico 56,Medicação 3,Nenhuma,(96) 93438-5128
+TEST8205,Renata Cardoso,894.962.818-12,23,Histórico médico 42,Medicação 3,Nenhuma,(14) 95395-5184
+TEST7339,Gustavo Carvalho,514.635.900-98,38,Histórico médico 94,Medicação 3,Nenhuma,(99) 97865-8250
+TEST6515,Fernanda Lima,934.398.677-61,35,Histórico médico 77,Medicação 10,Alergia 3,(84) 95617-5763
+TEST9259,Camila Sousa,310.628.348-54,25,Histórico médico 5,Medicação 9,Nenhuma,(41) 98560-6326
+TEST1470,Rafael Almeida,133.774.568-39,31,Histórico médico 67,Medicação 4,Nenhuma,(52) 99489-7837
+TEST4521,Lucia Ferreira,489.813.255-14,36,Histórico médico 14,Medicação 3,Nenhuma,(43) 97147-6059
+TEST6184,Juliana Pereira,170.937.945-42,26,Histórico médico 44,Medicação 8,Nenhuma,(38) 93227-5563
+TEST3790,Ana Silva,303.154.985-98,37,Histórico médico 46,Medicação 9,Alergia 3,(15) 93584-3495
+TEST1608,Renata Cardoso,460.138.117-99,34,Histórico médico 11,Medicação 3,Nenhuma,(44) 98243-3395
+TEST7910,Marcelo Araújo,552.450.445-77,22,Histórico médico 29,Medicação 9,Nenhuma,(42) 99520-7555
+TEST4449,Diego Barbosa,172.495.171-70,23,Histórico médico 38,Medicação 9,Alergia 4,(31) 98680-3094
+TEST8006,Juliana Pereira,912.929.674-11,22,Histórico médico 9,Medicação 8,Nenhuma,(21) 91563-9105
+TEST1460,Gustavo Carvalho,344.889.137-70,22,Histórico médico 7,Medicação 8,Nenhuma,(18) 95169-3000
+TEST9664,Bruno Martins,368.609.113-45,31,Histórico médico 62,Medicação 1,Alergia 2,(51) 91747-2894
+TEST3073,Vanessa Dias,116.850.203-92,39,Histórico médico 85,Medicação 4,Alergia 3,(73) 92359-8555
+TEST9475,Camila Sousa,539.768.655-61,24,Histórico médico 56,Medicação 5,Nenhuma,(91) 97482-4738
+TEST7276,Maria Santos,123.588.539-52,39,Histórico médico 76,Medicação 5,Nenhuma,(53) 95438-3257
+TEST7768,Priscila Ribeiro,247.191.199-55,39,Histórico médico 4,Medicação 3,Alergia 3,(13) 96903-8789
+TEST4937,Felipe Monteiro,301.959.126-50,29,Histórico médico 85,Medicação 10,Nenhuma,(48) 94715-6468
+TEST4230,Pedro Costa,779.679.226-81,34,Histórico médico 77,Medicação 8,Nenhuma,(68) 90881-4010
+TEST4219,Pedro Costa,937.603.339-29,20,Histórico médico 85,Medicação 9,Nenhuma,(22) 97104-5236
+TEST6665,Priscila Ribeiro,936.870.490-18,36,Histórico médico 5,Medicação 3,Nenhuma,(85) 91615-1141
+TEST5019,Lucia Ferreira,163.373.554-44,22,Histórico médico 71,Medicação 3,Nenhuma,(96) 93674-5993
+TEST3965,Carlos Rodrigues,984.720.819-35,37,Histórico médico 40,Medicação 2,Nenhuma,(73) 92713-2823
+TEST2815,João Oliveira,600.305.884-81,32,Histórico médico 6,Medicação 1,Nenhuma,(59) 96640-4027
+TEST3703,Felipe Monteiro,473.946.784-29,27,Histórico médico 73,Medicação 5,Alergia 5,(62) 97867-3740
+TEST1004,Marcelo Araújo,683.410.415-73,35,Histórico médico 45,Medicação 4,Nenhuma,(48) 95699-9018
+TEST2493,Lucia Ferreira,191.316.781-81,24,Histórico médico 89,Medicação 8,Alergia 3,(56) 94164-6490
+TEST8509,Fernanda Lima,241.413.416-13,23,Histórico médico 99,Medicação 10,Nenhuma,(76) 90874-1183
+TEST8173,Lucia Ferreira,935.890.522-30,31,Histórico médico 6,Medicação 3,Alergia 2,(81) 95768-5020
+TEST6504,Maria Santos,411.667.733-18,30,Histórico médico 21,Medicação 7,Nenhuma,(41) 92975-2134
+TEST4718,Carlos Rodrigues,855.153.807-39,36,Histórico médico 36,Medicação 2,Alergia 3,(28) 94739-9266
+TEST5497,Gustavo Carvalho,223.393.829-54,35,Histórico médico 18,Medicação 9,Nenhuma,(85) 94618-8475
+TEST4503,Renata Cardoso,823.466.444-68,38,Histórico médico 72,Medicação 6,Alergia 3,(90) 97954-7102
+TEST8398,Pedro Costa,489.950.286-33,33,Histórico médico 89,Medicação 5,Alergia 3,(65) 96714-6764
+TEST6314,Juliana Pereira,677.693.421-38,25,Histórico médico 42,Medicação 8,Nenhuma,(15) 98520-9306
+TEST2612,Vanessa Dias,620.361.696-97,30,Histórico médico 11,Medicação 4,Alergia 3,(22) 99687-5223
+TEST3357,Fernanda Lima,433.732.854-12,32,Histórico médico 41,Medicação 3,Nenhuma,(23) 97533-4125
+TEST3469,Lucia Ferreira,305.648.365-35,31,Histórico médico 19,Medicação 5,Nenhuma,(20) 95383-4336
+TEST7908,Priscila Ribeiro,312.935.896-60,20,Histórico médico 68,Medicação 5,Nenhuma,(12) 99676-6459
+TEST4331,Rafael Almeida,688.696.393-60,25,Histórico médico 4,Medicação 7,Nenhuma,(65) 93935-6133
+TEST8881,Maria Santos,466.479.172-51,23,Histórico médico 15,Medicação 9,Nenhuma,(46) 93506-1068
+TEST4600,Renata Cardoso,603.492.171-22,24,Histórico médico 92,Medicação 3,Nenhuma,(76) 99542-9497
+TEST3554,Gustavo Carvalho,339.595.149-39,20,Histórico médico 15,Medicação 5,Nenhuma,(13) 97076-2740
+TEST5820,Gustavo Carvalho,855.914.156-78,25,Histórico médico 24,Medicação 8,Nenhuma,(75) 96480-6597
+TEST8098,Diego Barbosa,157.696.513-98,39,Histórico médico 22,Medicação 10,Nenhuma,(62) 96227-8603
+TEST4438,Juliana Pereira,946.983.904-30,30,Histórico médico 39,Medicação 3,Nenhuma,(48) 91874-8012
+TEST8214,Rafael Almeida,615.531.154-57,29,Histórico médico 59,Medicação 9,Alergia 2,(98) 96702-9334
+TEST7883,Tatiana Gomes,448.713.746-72,37,Histórico médico 37,Medicação 5,Nenhuma,(58) 92317-7553
+TEST3882,Renata Cardoso,471.967.569-49,30,Histórico médico 20,Medicação 5,Nenhuma,(61) 96804-2571
+TEST3568,Carlos Rodrigues,894.423.618-84,24,Histórico médico 81,Medicação 4,Nenhuma,(69) 91291-2467
+TEST7236,Marcelo Araújo,924.272.468-88,36,Histórico médico 35,Medicação 3,Nenhuma,(94) 96878-6445
+TEST4394,Pedro Costa,753.452.633-90,40,Histórico médico 51,Medicação 10,Alergia 5,(82) 94186-9067
+TEST5930,Vanessa Dias,928.881.739-28,28,Histórico médico 65,Medicação 9,Nenhuma,(85) 90265-7944
+TEST4693,Vanessa Dias,769.677.769-16,28,Histórico médico 41,Medicação 7,Nenhuma,(95) 94456-1762
+TEST6257,Pedro Costa,394.424.264-82,22,Histórico médico 97,Medicação 5,Nenhuma,(18) 99468-2794
+TEST5096,Fernanda Lima,617.973.990-45,38,Histórico médico 39,Medicação 3,Nenhuma,(25) 90455-4376
+TEST2073,Renata Cardoso,474.704.831-53,35,Histórico médico 15,Medicação 1,Nenhuma,(62) 98613-2960
+TEST1358,Pedro Costa,100.356.160-35,23,Histórico médico 23,Medicação 3,Nenhuma,(57) 96763-2220
+TEST1897,Vanessa Dias,366.675.932-18,32,Histórico médico 39,Medicação 1,Nenhuma,(55) 99766-2856
+TEST7133,Maria Santos,731.110.862-62,40,Histórico médico 31,Medicação 9,Nenhuma,(71) 90230-5572
+TEST4160,Vanessa Dias,373.920.328-31,39,Histórico médico 93,Medicação 6,Nenhuma,(39) 97558-8672
+TEST1375,Lucia Ferreira,720.759.136-22,28,Histórico médico 58,Medicação 10,Alergia 1,(73) 90474-7854
+TEST3775,Diego Barbosa,103.141.822-56,30,Histórico médico 1,Medicação 3,Nenhuma,(51) 98251-8737
+TEST1044,Ana Silva,136.202.129-31,20,Histórico médico 41,Medicação 5,Nenhuma,(21) 93650-9899
+TEST6548,Pedro Costa,239.996.817-27,26,Histórico médico 44,Medicação 6,Alergia 1,(28) 90939-9631
+TEST8792,Juliana Pereira,475.981.600-80,36,Histórico médico 8,Medicação 1,Nenhuma,(48) 97549-5934
+TEST3310,Renata Cardoso,676.805.864-47,33,Histórico médico 79,Medicação 1,Nenhuma,(19) 92157-4953
+TEST4996,Marcelo Araújo,262.501.795-24,27,Histórico médico 93,Medicação 1,Alergia 5,(57) 92852-7877
+TEST3233,Ana Silva,777.420.885-88,30,Histórico médico 82,Medicação 8,Alergia 3,(72) 96358-8587
+TEST2448,Renata Cardoso,334.299.926-53,33,Histórico médico 6,Medicação 1,Nenhuma,(86) 97182-9572
+TEST2151,Marcelo Araújo,159.754.940-34,23,Histórico médico 83,Medicação 5,Alergia 1,(99) 93609-1478
+TEST4803,Vanessa Dias,820.556.761-28,37,Histórico médico 4,Medicação 10,Nenhuma,(72) 95334-2412
+TEST5702,João Oliveira,602.127.947-49,38,Histórico médico 37,Medicação 3,Nenhuma,(98) 96478-6231
+TEST3510,Maria Santos,367.870.623-16,38,Histórico médico 33,Medicação 2,Nenhuma,(11) 92417-5721
+TEST1853,Rafael Almeida,980.400.349-71,33,Histórico médico 16,Medicação 6,Nenhuma,(65) 99068-4861
+TEST2420,Juliana Pereira,171.989.609-96,29,Histórico médico 12,Medicação 1,Nenhuma,(20) 93474-1099
+TEST2567,Gustavo Carvalho,265.722.951-59,37,Histórico médico 46,Medicação 6,Nenhuma,(63) 90124-5882
+TEST7905,João Oliveira,931.648.248-28,28,Histórico médico 100,Medicação 4,Nenhuma,(77) 91946-4290
+TEST8698,Fernanda Lima,160.315.365-38,20,Histórico médico 50,Medicação 8,Nenhuma,(96) 99622-7182
+TEST2579,Bruno Martins,530.562.364-79,25,Histórico médico 27,Medicação 6,Alergia 3,(64) 97259-2187
+TEST4795,Juliana Pereira,643.225.762-37,22,Histórico médico 24,Medicação 1,Nenhuma,(61) 90827-4810
+TEST2696,Marcelo Araújo,163.702.396-83,30,Histórico médico 74,Medicação 4,Nenhuma,(80) 94650-3419
+TEST4765,Rafael Almeida,892.359.259-39,34,Histórico médico 71,Medicação 10,Nenhuma,(91) 97462-2288
+TEST9718,Marcelo Araújo,744.629.871-21,26,Histórico médico 20,Medicação 10,Nenhuma,(85) 91584-6120
+TEST7875,Felipe Monteiro,734.955.165-27,38,Histórico médico 1,Medicação 5,Nenhuma,(15) 96223-7272
+TEST7205,Fernanda Lima,613.925.158-75,20,Histórico médico 15,Medicação 7,Nenhuma,(54) 98435-8999
+TEST1658,Marcelo Araújo,104.148.571-32,40,Histórico médico 63,Medicação 9,Nenhuma,(35) 94345-7724
+TEST6397,Marcelo Araújo,857.312.220-37,32,Histórico médico 4,Medicação 9,Nenhuma,(95) 99454-8055
+TEST8904,João Oliveira,724.670.288-37,25,Histórico médico 31,Medicação 9,Nenhuma,(23) 91946-4438
+TEST6654,Priscila Ribeiro,765.907.184-89,34,Histórico médico 37,Medicação 2,Nenhuma,(38) 93102-7225
+TEST7984,Juliana Pereira,645.618.388-73,36,Histórico médico 46,Medicação 2,Nenhuma,(86) 97597-5109
+TEST4011,Fernanda Lima,536.125.920-81,28,Histórico médico 1,Medicação 7,Alergia 1,(79) 98661-7026
+TEST8816,Diego Barbosa,329.795.188-37,22,Histórico médico 50,Medicação 1,Nenhuma,(62) 96316-3202
+TEST1524,Juliana Pereira,995.761.748-41,36,Histórico médico 36,Medicação 1,Nenhuma,(39) 96744-2928
+TEST9593,Felipe Monteiro,590.653.687-65,26,Histórico médico 28,Medicação 3,Alergia 5,(11) 92754-8531
+TEST9094,Fernanda Lima,827.122.326-75,39,Histórico médico 19,Medicação 1,Nenhuma,(83) 92911-9088
+TEST1451,Leonardo Nascimento,672.854.580-59,36,Histórico médico 63,Medicação 2,Alergia 4,(60) 91730-4640
+TEST5087,Bruno Martins,450.300.437-75,35,Histórico médico 91,Medicação 3,Nenhuma,(39) 94137-5118
+TEST9110,Marcelo Araújo,212.526.513-27,35,Histórico médico 8,Medicação 6,Alergia 4,(98) 90606-1414
+TEST1548,Pedro Costa,848.241.127-19,40,Histórico médico 11,Medicação 4,Nenhuma,(37) 96653-9508
+TEST6705,Diego Barbosa,344.934.764-28,35,Histórico médico 75,Medicação 5,Alergia 3,(96) 95298-2906
+TEST6180,Leonardo Nascimento,793.159.662-12,24,Histórico médico 6,Medicação 8,Nenhuma,(61) 90257-3135
+TEST5088,Bruno Martins,789.759.742-76,26,Histórico médico 67,Medicação 9,Nenhuma,(85) 96422-1097
+TEST4681,Rafael Almeida,511.360.194-80,23,Histórico médico 84,Medicação 10,Alergia 1,(62) 93308-4257
+TEST4921,Camila Sousa,872.873.893-41,32,Histórico médico 48,Medicação 10,Nenhuma,(32) 91243-9585
+TEST5218,Fernanda Lima,952.447.550-81,26,Histórico médico 64,Medicação 8,Alergia 4,(12) 90540-5828
+TEST4790,Bruno Martins,875.228.149-86,31,Histórico médico 59,Medicação 9,Nenhuma,(36) 91270-3505
+TEST8590,Bruno Martins,847.731.962-91,39,Histórico médico 81,Medicação 8,Nenhuma,(20) 94406-2818
+TEST7343,Maria Santos,322.769.176-69,35,Histórico médico 28,Medicação 6,Nenhuma,(70) 93634-1390
+TEST3357,Camila Sousa,208.981.592-70,27,Histórico médico 68,Medicação 3,Nenhuma,(19) 98037-2116
+TEST8613,Camila Sousa,380.577.588-73,33,Histórico médico 5,Medicação 1,Nenhuma,(31) 99033-6362
+TEST7123,Priscila Ribeiro,946.365.111-92,34,Histórico médico 80,Medicação 2,Alergia 2,(49) 98813-4745
+TEST7836,Tatiana Gomes,530.128.235-12,39,Histórico médico 8,Medicação 8,Nenhuma,(88) 93920-7087
+TEST6339,Pedro Costa,390.282.501-92,34,Histórico médico 46,Medicação 7,Nenhuma,(66) 95651-2281
+TEST3187,Felipe Monteiro,589.807.176-13,27,Histórico médico 19,Medicação 4,Nenhuma,(32) 95805-4766
+TEST4114,Fernanda Lima,644.319.893-93,36,Histórico médico 18,Medicação 1,Nenhuma,(69) 91986-8542
+TEST9873,Camila Sousa,952.137.566-48,28,Histórico médico 40,Medicação 5,Nenhuma,(47) 92917-5438
+TEST4775,Priscila Ribeiro,267.432.845-63,38,Histórico médico 18,Medicação 1,Nenhuma,(74) 93006-5274
+TEST5498,Fernanda Lima,975.375.544-17,40,Histórico médico 5,Medicação 6,Alergia 1,(60) 99079-6346
+TEST3899,Marcelo Araújo,666.837.749-33,36,Histórico médico 85,Medicação 6,Nenhuma,(77) 94227-7373
+TEST4180,Felipe Monteiro,738.486.532-43,38,Histórico médico 32,Medicação 5,Alergia 4,(86) 94008-5721
+TEST2910,Camila Sousa,475.183.447-95,36,Histórico médico 16,Medicação 7,Nenhuma,(64) 94894-4659
+TEST5008,Carlos Rodrigues,439.428.954-11,40,Histórico médico 55,Medicação 6,Alergia 3,(62) 93505-1247
+TEST3393,Diego Barbosa,598.872.825-36,37,Histórico médico 87,Medicação 6,Nenhuma,(68) 95349-7416
+TEST3938,Leonardo Nascimento,964.474.593-86,36,Histórico médico 2,Medicação 5,Nenhuma,(68) 90451-6033
+TEST7431,Vanessa Dias,186.848.969-78,34,Histórico médico 59,Medicação 7,Nenhuma,(15) 97861-6022
+TEST6018,Carlos Rodrigues,336.662.777-35,26,Histórico médico 15,Medicação 4,Nenhuma,(95) 92845-4830
+TEST9661,Vanessa Dias,918.371.498-34,38,Histórico médico 19,Medicação 7,Nenhuma,(19) 94637-9327
+TEST6800,Bruno Martins,616.845.463-57,26,Histórico médico 68,Medicação 3,Nenhuma,(38) 91551-1593
+TEST8505,Fernanda Lima,603.991.157-24,27,Histórico médico 77,Medicação 7,Nenhuma,(14) 92975-8662
+TEST5503,Bruno Martins,477.206.519-46,23,Histórico médico 24,Medicação 2,Nenhuma,(56) 93659-8128
+TEST7375,Renata Cardoso,589.531.845-61,28,Histórico médico 73,Medicação 4,Alergia 5,(16) 92723-4913
+TEST2069,Felipe Monteiro,145.861.203-92,37,Histórico médico 9,Medicação 5,Nenhuma,(36) 94617-8962
+TEST8299,Pedro Costa,885.246.923-76,38,Histórico médico 57,Medicação 1,Nenhuma,(82) 90879-9284
+TEST7021,Carlos Rodrigues,913.885.556-63,25,Histórico médico 7,Medicação 7,Alergia 1,(98) 92144-1825
+TEST6023,Priscila Ribeiro,477.156.485-40,29,Histórico médico 70,Medicação 7,Alergia 3,(53) 97240-6112
+TEST5432,Carlos Rodrigues,127.783.886-42,20,Histórico médico 69,Medicação 1,Nenhuma,(54) 98489-7556
+TEST2367,Ana Silva,548.652.697-56,27,Histórico médico 72,Medicação 2,Alergia 3,(27) 96878-2061
+TEST4523,Rafael Almeida,276.950.426-60,38,Histórico médico 15,Medicação 4,Nenhuma,(34) 92180-1122
+TEST8297,Maria Santos,619.402.219-83,38,Histórico médico 58,Medicação 7,Nenhuma,(77) 99129-8890
+TEST8322,Maria Santos,352.867.138-11,23,Histórico médico 44,Medicação 5,Nenhuma,(75) 95115-6375
+TEST2265,Lucia Ferreira,525.654.663-58,22,Histórico médico 83,Medicação 9,Alergia 2,(13) 93014-9910
+TEST4079,João Oliveira,542.931.846-65,22,Histórico médico 95,Medicação 4,Nenhuma,(26) 97047-3006
+TEST2673,Vanessa Dias,538.652.354-83,23,Histórico médico 56,Medicação 4,Nenhuma,(79) 99156-8741
+TEST5868,Rafael Almeida,585.430.187-62,37,Histórico médico 61,Medicação 3,Nenhuma,(75) 92473-1972
+TEST1229,Renata Cardoso,167.718.272-91,23,Histórico médico 38,Medicação 5,Alergia 3,(34) 90751-4114
+TEST4173,Priscila Ribeiro,350.800.413-49,25,Histórico médico 100,Medicação 3,Nenhuma,(69) 91829-7224
+TEST3125,Vanessa Dias,813.588.653-26,38,Histórico médico 72,Medicação 7,Alergia 1,(63) 90729-6925
+TEST2847,Tatiana Gomes,868.502.687-67,37,Histórico médico 100,Medicação 5,Alergia 5,(86) 97036-6468
+TEST2086,Vanessa Dias,755.956.488-83,23,Histórico médico 33,Medicação 7,Nenhuma,(70) 96675-7680
+TEST4338,Lucia Ferreira,128.689.846-39,34,Histórico médico 65,Medicação 6,Nenhuma,(82) 93370-3730
+TEST6498,Vanessa Dias,534.422.492-89,37,Histórico médico 75,Medicação 10,Nenhuma,(84) 92111-7919
+TEST6605,Fernanda Lima,909.113.124-58,34,Histórico médico 84,Medicação 4,Alergia 4,(76) 90226-3235
+TEST4447,Juliana Pereira,930.816.407-70,34,Histórico médico 43,Medicação 5,Nenhuma,(38) 96468-7215
+TEST6167,Felipe Monteiro,352.684.413-80,35,Histórico médico 48,Medicação 1,Alergia 3,(19) 93038-5615
+TEST2736,Bruno Martins,460.693.720-88,21,Histórico médico 95,Medicação 1,Nenhuma,(88) 92427-8424
+TEST7491,Priscila Ribeiro,546.843.352-99,34,Histórico médico 63,Medicação 3,Alergia 4,(22) 90236-9844
+TEST5711,Lucia Ferreira,312.551.329-33,39,Histórico médico 61,Medicação 10,Nenhuma,(70) 95705-5191
+TEST4423,Gustavo Carvalho,960.401.562-97,34,Histórico médico 35,Medicação 8,Nenhuma,(92) 90847-9163
+TEST7401,Tatiana Gomes,851.159.218-34,20,Histórico médico 52,Medicação 2,Nenhuma,(26) 93922-6003
+TEST2189,Carlos Rodrigues,808.734.337-90,35,Histórico médico 80,Medicação 7,Alergia 2,(24) 92331-7534
+TEST1627,Maria Santos,184.288.862-78,23,Histórico médico 75,Medicação 3,Nenhuma,(81) 97383-1175
+TEST6290,Tatiana Gomes,134.318.397-16,21,Histórico médico 46,Medicação 5,Nenhuma,(74) 92676-2168
+TEST1325,Vanessa Dias,640.556.203-79,24,Histórico médico 76,Medicação 6,Nenhuma,(24) 97289-5335
+TEST8868,Fernanda Lima,588.312.707-44,40,Histórico médico 56,Medicação 8,Alergia 5,(88) 99935-9783
+TEST7139,Gustavo Carvalho,418.872.627-13,37,Histórico médico 72,Medicação 2,Alergia 3,(41) 96787-7901
+TEST7166,Leonardo Nascimento,860.277.338-83,27,Histórico médico 24,Medicação 5,Nenhuma,(38) 90061-1609
+TEST1911,Juliana Pereira,634.933.854-95,20,Histórico médico 41,Medicação 1,Nenhuma,(74) 96461-1980
+TEST8094,Camila Sousa,183.411.504-60,32,Histórico médico 42,Medicação 10,Alergia 5,(46) 99003-7502
+TEST8061,Rafael Almeida,693.315.186-73,26,Histórico médico 82,Medicação 6,Nenhuma,(67) 96425-3535
+TEST9356,Fernanda Lima,749.112.553-65,35,Histórico médico 57,Medicação 10,Nenhuma,(87) 96899-4830
+TEST6309,Fernanda Lima,554.863.222-42,37,Histórico médico 45,Medicação 2,Nenhuma,(79) 90682-5536
+TEST7374,Rafael Almeida,221.448.141-81,27,Histórico médico 73,Medicação 5,Nenhuma,(17) 91477-7706
+TEST7159,Pedro Costa,646.446.694-12,35,Histórico médico 40,Medicação 10,Nenhuma,(92) 98809-2268
+TEST8262,Rafael Almeida,219.949.555-47,37,Histórico médico 64,Medicação 9,Alergia 3,(78) 91496-3334
+TEST2865,Lucia Ferreira,682.264.617-22,34,Histórico médico 8,Medicação 5,Nenhuma,(15) 96406-2055
+TEST3188,Carlos Rodrigues,796.281.327-47,38,Histórico médico 98,Medicação 1,Nenhuma,(37) 94034-9219
+TEST6365,Diego Barbosa,356.562.432-92,39,Histórico médico 18,Medicação 10,Nenhuma,(27) 90433-1420
+TEST4310,Tatiana Gomes,725.337.975-55,21,Histórico médico 28,Medicação 1,Alergia 1,(21) 90613-8462
+TEST6253,Felipe Monteiro,845.384.369-88,40,Histórico médico 73,Medicação 9,Nenhuma,(39) 99081-1484
+TEST2515,Rafael Almeida,635.173.623-10,29,Histórico médico 27,Medicação 10,Nenhuma,(73) 92200-6722
+TEST1742,Leonardo Nascimento,599.486.529-18,29,Histórico médico 91,Medicação 9,Nenhuma,(72) 92586-2615
+TEST4775,Vanessa Dias,926.659.631-96,33,Histórico médico 63,Medicação 7,Nenhuma,(35) 92995-9776
+TEST4249,Camila Sousa,486.821.121-38,29,Histórico médico 65,Medicação 4,Alergia 3,(42) 99439-4065
+TEST1426,Leonardo Nascimento,638.360.411-86,20,Histórico médico 95,Medicação 3,Nenhuma,(75) 94098-9027
+TEST4233,Leonardo Nascimento,547.142.603-42,26,Histórico médico 15,Medicação 3,Nenhuma,(16) 96835-4937
+TEST6842,Lucia Ferreira,484.673.961-32,31,Histórico médico 56,Medicação 1,Nenhuma,(92) 93496-6732
+TEST4404,Marcelo Araújo,411.806.407-48,38,Histórico médico 78,Medicação 5,Nenhuma,(75) 91682-4550
+TEST7615,Pedro Costa,241.423.246-54,22,Histórico médico 33,Medicação 6,Nenhuma,(98) 90653-6557
+TEST9454,Camila Sousa,176.533.807-63,39,Histórico médico 13,Medicação 7,Nenhuma,(11) 92962-1942
+TEST6363,Tatiana Gomes,407.156.733-71,24,Histórico médico 25,Medicação 7,Nenhuma,(57) 96386-2535
+TEST2011,Marcelo Araújo,335.807.800-40,34,Histórico médico 26,Medicação 10,Nenhuma,(99) 99014-6435
+TEST5123,Marcelo Araújo,835.442.598-86,27,Histórico médico 79,Medicação 7,Nenhuma,(46) 96448-9369
+TEST5721,Ana Silva,207.204.732-80,28,Histórico médico 50,Medicação 1,Alergia 3,(81) 97523-3691
+TEST7333,Renata Cardoso,322.329.527-21,31,Histórico médico 93,Medicação 5,Nenhuma,(42) 92851-9375
+TEST4664,Marcelo Araújo,321.991.671-12,30,Histórico médico 16,Medicação 8,Nenhuma,(72) 91557-5620
+TEST3585,Diego Barbosa,930.895.330-84,24,Histórico médico 76,Medicação 7,Alergia 1,(98) 91050-3964
+TEST9808,Lucia Ferreira,813.680.602-57,22,Histórico médico 52,Medicação 2,Nenhuma,(22) 92916-7171
+TEST8964,Maria Santos,979.548.847-57,20,Histórico médico 71,Medicação 7,Alergia 2,(22) 90271-2427
+TEST1456,Bruno Martins,363.435.552-94,37,Histórico médico 34,Medicação 3,Nenhuma,(73) 94689-5364
+TEST9826,Leonardo Nascimento,612.715.875-11,35,Histórico médico 4,Medicação 8,Alergia 5,(21) 92285-2628
+TEST1551,Lucia Ferreira,893.804.933-78,28,Histórico médico 91,Medicação 4,Alergia 3,(64) 94770-1772
+TEST5680,Camila Sousa,360.231.889-48,29,Histórico médico 22,Medicação 5,Nenhuma,(31) 93202-7834
+TEST6248,João Oliveira,311.577.647-94,38,Histórico médico 23,Medicação 4,Nenhuma,(86) 95643-6285
+TEST5020,Vanessa Dias,915.876.856-64,20,Histórico médico 42,Medicação 9,Nenhuma,(49) 98838-8868
+TEST1005,Vanessa Dias,307.351.635-81,34,Histórico médico 48,Medicação 2,Nenhuma,(27) 99417-2264
+TEST9398,Vanessa Dias,774.818.664-52,34,Histórico médico 77,Medicação 3,Nenhuma,(34) 98530-4379
+TEST4070,João Oliveira,386.139.338-88,24,Histórico médico 71,Medicação 6,Nenhuma,(83) 91903-7597
+TEST1762,Diego Barbosa,799.370.286-59,36,Histórico médico 97,Medicação 6,Alergia 2,(52) 97688-7146
+TEST4663,Vanessa Dias,466.940.327-50,31,Histórico médico 39,Medicação 9,Nenhuma,(95) 90745-7831
+TEST5643,Leonardo Nascimento,741.234.534-22,28,Histórico médico 45,Medicação 1,Nenhuma,(19) 93295-5912
+TEST6156,Ana Silva,468.461.316-53,40,Histórico médico 54,Medicação 9,Nenhuma,(12) 93536-8756
+TEST6570,Lucia Ferreira,904.156.909-94,22,Histórico médico 92,Medicação 10,Nenhuma,(70) 99703-7979
+TEST9712,Ana Silva,620.632.202-63,22,Histórico médico 27,Medicação 2,Nenhuma,(43) 97342-4791
+TEST4966,Lucia Ferreira,228.252.154-18,37,Histórico médico 1,Medicação 9,Nenhuma,(82) 96812-3096
+TEST9928,Carlos Rodrigues,943.671.672-18,36,Histórico médico 63,Medicação 8,Nenhuma,(43) 97486-6051
+TEST3157,Marcelo Araújo,227.837.790-38,39,Histórico médico 2,Medicação 9,Nenhuma,(91) 99721-9616
+TEST2671,Lucia Ferreira,642.329.439-62,39,Histórico médico 63,Medicação 5,Alergia 4,(42) 98989-7157
+TEST3281,Rafael Almeida,203.662.323-91,36,Histórico médico 29,Medicação 4,Alergia 4,(67) 94753-5557
+TEST3416,João Oliveira,383.604.871-49,34,Histórico médico 24,Medicação 1,Alergia 2,(82) 97917-6853
+TEST6192,Camila Sousa,199.815.536-89,39,Histórico médico 91,Medicação 8,Alergia 3,(24) 98825-7022
+TEST2188,Renata Cardoso,496.615.481-50,24,Histórico médico 83,Medicação 7,Alergia 1,(31) 98175-4179
+TEST5994,Camila Sousa,887.150.189-82,34,Histórico médico 30,Medicação 4,Alergia 4,(95) 93360-7870
+TEST1194,Felipe Monteiro,224.396.745-48,34,Histórico médico 44,Medicação 5,Nenhuma,(68) 93051-1259
+TEST9787,Fernanda Lima,696.279.601-42,31,Histórico médico 39,Medicação 8,Nenhuma,(38) 91691-1611
+TEST7851,Juliana Pereira,504.120.874-86,27,Histórico médico 13,Medicação 6,Alergia 2,(61) 97088-1582
+TEST9529,Maria Santos,479.184.392-95,29,Histórico médico 28,Medicação 1,Alergia 1,(51) 90901-5476
+TEST6802,Gustavo Carvalho,823.294.977-68,27,Histórico médico 73,Medicação 6,Nenhuma,(98) 93618-8210
+TEST2441,Felipe Monteiro,539.914.195-52,22,Histórico médico 24,Medicação 7,Nenhuma,(44) 90575-8446
+TEST2916,Lucia Ferreira,630.884.772-82,20,Histórico médico 97,Medicação 8,Nenhuma,(59) 92005-5235
+TEST6863,Diego Barbosa,542.845.291-50,39,Histórico médico 71,Medicação 9,Alergia 5,(93) 98144-5658
+TEST5293,Tatiana Gomes,240.671.387-10,32,Histórico médico 52,Medicação 10,Alergia 5,(26) 92609-6988
+TEST8922,Maria Santos,219.804.846-89,32,Histórico médico 39,Medicação 8,Alergia 3,(72) 93615-3530
+TEST3586,Leonardo Nascimento,984.882.319-36,30,Histórico médico 12,Medicação 5,Nenhuma,(13) 96105-2678
+TEST9571,Leonardo Nascimento,321.605.259-68,36,Histórico médico 70,Medicação 2,Nenhuma,(34) 99169-4161
+TEST5527,Juliana Pereira,908.223.619-13,23,Histórico médico 57,Medicação 3,Nenhuma,(80) 97628-5416
+TEST5795,Juliana Pereira,442.195.547-30,30,Histórico médico 87,Medicação 10,Nenhuma,(77) 95170-9960
+TEST7655,Carlos Rodrigues,914.196.384-41,35,Histórico médico 63,Medicação 3,Nenhuma,(64) 92853-9723
+TEST5999,Gustavo Carvalho,709.553.664-27,27,Histórico médico 72,Medicação 6,Alergia 3,(56) 94021-2282
+TEST5225,Pedro Costa,325.971.796-45,31,Histórico médico 57,Medicação 8,Alergia 1,(83) 94000-1948
+TEST4694,Felipe Monteiro,813.334.972-93,27,Histórico médico 49,Medicação 4,Nenhuma,(64) 91775-4151
+TEST5148,Renata Cardoso,122.737.201-78,30,Histórico médico 62,Medicação 3,Nenhuma,(32) 92623-9778
+TEST3168,Marcelo Araújo,135.965.625-96,23,Histórico médico 1,Medicação 9,Alergia 2,(84) 91996-2173
+TEST7144,Diego Barbosa,378.692.469-72,38,Histórico médico 46,Medicação 10,Alergia 5,(26) 92106-9073
+TEST9218,Lucia Ferreira,786.902.427-74,40,Histórico médico 13,Medicação 9,Nenhuma,(79) 99732-5343
+TEST9596,Tatiana Gomes,867.210.389-84,21,Histórico médico 54,Medicação 2,Alergia 2,(83) 95601-9636
+TEST9438,Gustavo Carvalho,526.316.554-75,24,Histórico médico 53,Medicação 5,Alergia 4,(93) 97131-2282
+TEST7530,Rafael Almeida,771.576.669-92,38,Histórico médico 100,Medicação 6,Nenhuma,(86) 95364-3352
+TEST5188,Rafael Almeida,845.248.360-82,40,Histórico médico 4,Medicação 2,Nenhuma,(76) 93597-2258
+TEST6627,Pedro Costa,536.933.131-96,39,Histórico médico 39,Medicação 6,Nenhuma,(19) 99281-6688
+TEST4367,Camila Sousa,436.795.713-71,23,Histórico médico 41,Medicação 2,Nenhuma,(55) 91317-1106
+TEST3480,Pedro Costa,563.232.991-50,34,Histórico médico 14,Medicação 9,Nenhuma,(28) 94709-5693
+TEST9254,Camila Sousa,997.540.948-85,29,Histórico médico 11,Medicação 7,Nenhuma,(32) 99986-1039
+TEST9988,Priscila Ribeiro,338.387.408-56,22,Histórico médico 84,Medicação 6,Nenhuma,(45) 97445-8382
+TEST6937,Leonardo Nascimento,945.491.340-10,27,Histórico médico 86,Medicação 3,Nenhuma,(92) 95860-2180
+TEST2167,Bruno Martins,506.965.644-39,31,Histórico médico 99,Medicação 6,Alergia 2,(46) 97087-8680
+TEST9074,Maria Santos,700.800.697-12,24,Histórico médico 47,Medicação 10,Nenhuma,(90) 99899-5648
+TEST4898,Maria Santos,375.809.138-89,27,Histórico médico 77,Medicação 1,Nenhuma,(61) 91605-3876
+TEST8476,Priscila Ribeiro,168.865.202-78,30,Histórico médico 41,Medicação 2,Nenhuma,(76) 99834-3724
+TEST7512,Camila Sousa,427.652.843-98,22,Histórico médico 8,Medicação 3,Nenhuma,(66) 92041-1453
+TEST8729,Vanessa Dias,790.809.301-46,33,Histórico médico 94,Medicação 8,Nenhuma,(37) 90795-5397
+TEST6906,Rafael Almeida,545.372.500-75,37,Histórico médico 47,Medicação 5,Nenhuma,(54) 99760-2123
+TEST6318,Fernanda Lima,533.878.311-17,26,Histórico médico 7,Medicação 4,Alergia 2,(53) 95235-6947
+TEST9907,Leonardo Nascimento,488.702.412-60,29,Histórico médico 33,Medicação 6,Nenhuma,(29) 97703-3808
+TEST1911,Renata Cardoso,332.472.668-41,22,Histórico médico 100,Medicação 8,Alergia 4,(14) 98958-9123
+TEST3227,Tatiana Gomes,789.161.537-21,36,Histórico médico 50,Medicação 4,Nenhuma,(24) 98937-6984
+TEST8103,Lucia Ferreira,838.899.825-96,38,Histórico médico 85,Medicação 10,Alergia 2,(37) 96461-7423
+TEST2316,Carlos Rodrigues,716.150.793-14,26,Histórico médico 21,Medicação 8,Alergia 5,(23) 90401-9921
+TEST9745,Camila Sousa,629.461.386-15,31,Histórico médico 63,Medicação 8,Alergia 4,(59) 94591-6112
+TEST5518,Marcelo Araújo,913.929.620-90,34,Histórico médico 63,Medicação 3,Alergia 5,(42) 93855-4769
+TEST5298,Gustavo Carvalho,867.274.253-99,23,Histórico médico 76,Medicação 6,Nenhuma,(71) 90560-5814
+TEST7710,Pedro Costa,884.382.382-83,24,Histórico médico 4,Medicação 10,Nenhuma,(70) 96191-2183
+TEST8016,Vanessa Dias,290.970.450-28,20,Histórico médico 23,Medicação 4,Alergia 5,(91) 93327-7166
+TEST7733,Felipe Monteiro,213.114.609-80,25,Histórico médico 17,Medicação 6,Nenhuma,(38) 91283-7671
+TEST6108,Tatiana Gomes,843.557.524-56,33,Histórico médico 96,Medicação 6,Alergia 3,(59) 91564-3720
+TEST2233,Bruno Martins,321.307.601-45,36,Histórico médico 69,Medicação 6,Alergia 3,(70) 98065-1662
+TEST5149,João Oliveira,253.435.875-83,34,Histórico médico 27,Medicação 7,Nenhuma,(62) 92291-7644
+TEST5617,Lucia Ferreira,167.794.858-57,20,Histórico médico 47,Medicação 7,Alergia 5,(15) 90192-1064
+TEST7803,Camila Sousa,725.280.102-60,22,Histórico médico 7,Medicação 5,Nenhuma,(29) 98237-3369
+TEST4676,Marcelo Araújo,576.296.963-53,24,Histórico médico 9,Medicação 10,Nenhuma,(21) 93584-8611
+TEST4702,Pedro Costa,975.189.612-36,28,Histórico médico 48,Medicação 8,Nenhuma,(44) 91370-4127
+TEST2014,Marcelo Araújo,256.191.332-15,37,Histórico médico 27,Medicação 3,Nenhuma,(24) 92432-2455
+TEST7862,Juliana Pereira,205.916.742-42,20,Histórico médico 14,Medicação 3,Alergia 3,(71) 92453-8172
+TEST1906,Camila Sousa,464.203.182-56,39,Histórico médico 19,Medicação 8,Nenhuma,(35) 99998-7704
+TEST1428,Tatiana Gomes,215.719.952-31,23,Histórico médico 84,Medicação 2,Alergia 1,(29) 98961-7043
+TEST1444,Ana Silva,343.297.107-16,36,Histórico médico 41,Medicação 5,Alergia 2,(82) 93633-7002
+TEST8917,Ana Silva,447.399.130-21,24,Histórico médico 33,Medicação 7,Nenhuma,(86) 99529-3419
+TEST6267,Gustavo Carvalho,101.558.788-97,20,Histórico médico 86,Medicação 4,Alergia 5,(41) 94554-6611
+TEST5941,João Oliveira,759.989.732-22,36,Histórico médico 81,Medicação 8,Alergia 5,(48) 98110-3068
+TEST6216,Priscila Ribeiro,707.790.877-61,30,Histórico médico 43,Medicação 6,Alergia 1,(39) 94412-9673
+TEST1655,Priscila Ribeiro,845.374.542-41,25,Histórico médico 51,Medicação 7,Nenhuma,(72) 96829-4683
+TEST7977,Bruno Martins,106.366.604-76,32,Histórico médico 19,Medicação 1,Alergia 4,(74) 92145-2984
+TEST8094,Rafael Almeida,937.519.740-89,22,Histórico médico 70,Medicação 7,Nenhuma,(51) 96232-2880
+TEST6674,Vanessa Dias,412.102.542-18,31,Histórico médico 20,Medicação 9,Nenhuma,(81) 97022-6868
+TEST8497,Vanessa Dias,479.688.757-43,40,Histórico médico 69,Medicação 2,Nenhuma,(69) 90497-7252
+TEST5175,Diego Barbosa,321.507.993-98,32,Histórico médico 87,Medicação 2,Alergia 1,(39) 90970-2239
+TEST7593,Renata Cardoso,764.310.290-13,34,Histórico médico 97,Medicação 5,Alergia 1,(41) 96243-3005
+TEST2974,Carlos Rodrigues,210.575.463-30,22,Histórico médico 13,Medicação 7,Nenhuma,(98) 92067-1576
+TEST5571,Felipe Monteiro,444.824.196-83,23,Histórico médico 8,Medicação 1,Alergia 4,(36) 90370-7295
+TEST3853,Diego Barbosa,463.950.782-30,20,Histórico médico 29,Medicação 5,Alergia 4,(87) 90058-7037
+TEST2492,Camila Sousa,504.295.115-68,33,Histórico médico 15,Medicação 8,Nenhuma,(61) 93652-6848
+TEST5553,Camila Sousa,486.362.664-17,21,Histórico médico 56,Medicação 1,Nenhuma,(79) 96765-1890
+TEST4579,Leonardo Nascimento,647.665.739-82,26,Histórico médico 61,Medicação 5,Nenhuma,(64) 92481-9665
+TEST8677,Bruno Martins,731.834.236-13,20,Histórico médico 40,Medicação 5,Alergia 2,(42) 94933-7924
+TEST8719,João Oliveira,806.835.688-35,20,Histórico médico 32,Medicação 1,Nenhuma,(63) 90277-4005
+TEST2045,Lucia Ferreira,223.700.593-30,30,Histórico médico 29,Medicação 9,Nenhuma,(54) 94357-2025
+TEST2887,Diego Barbosa,240.676.802-41,20,Histórico médico 16,Medicação 10,Nenhuma,(38) 91213-8656
+TEST3438,João Oliveira,864.722.782-11,30,Histórico médico 22,Medicação 8,Alergia 4,(63) 95437-1381
+TEST1484,João Oliveira,882.429.376-23,23,Histórico médico 38,Medicação 6,Nenhuma,(70) 97386-9735
+TEST1141,Camila Sousa,351.444.962-46,20,Histórico médico 64,Medicação 2,Nenhuma,(74) 93740-7432
+TEST3055,Ana Silva,986.626.519-36,34,Histórico médico 4,Medicação 1,Nenhuma,(25) 90617-6754
+TEST7354,Tatiana Gomes,603.339.548-45,38,Histórico médico 84,Medicação 8,Nenhuma,(61) 99017-4273
+TEST3938,Vanessa Dias,153.927.635-82,21,Histórico médico 23,Medicação 2,Nenhuma,(42) 98082-5971
+TEST3275,Marcelo Araújo,527.140.672-10,22,Histórico médico 76,Medicação 2,Nenhuma,(65) 94807-6239
+TEST2639,Fernanda Lima,639.408.159-93,27,Histórico médico 80,Medicação 7,Nenhuma,(60) 97470-2104
+TEST9800,Lucia Ferreira,309.182.484-33,28,Histórico médico 98,Medicação 10,Nenhuma,(71) 92854-7292
+TEST8575,João Oliveira,851.602.378-93,29,Histórico médico 3,Medicação 3,Nenhuma,(73) 92503-9565
+TEST5456,Lucia Ferreira,554.771.837-12,26,Histórico médico 44,Medicação 4,Nenhuma,(14) 91067-7300
+TEST1585,Lucia Ferreira,131.967.816-84,26,Histórico médico 59,Medicação 5,Nenhuma,(39) 91950-1589
+TEST9571,Ana Silva,318.785.450-84,34,Histórico médico 9,Medicação 9,Alergia 2,(49) 99398-5222
+TEST6461,Priscila Ribeiro,218.261.672-54,31,Histórico médico 19,Medicação 5,Nenhuma,(43) 98274-5501
+TEST2233,Ana Silva,977.909.645-79,39,Histórico médico 18,Medicação 3,Alergia 1,(34) 95241-9402
+TEST1543,Marcelo Araújo,153.800.418-44,34,Histórico médico 37,Medicação 6,Nenhuma,(82) 99928-5408
+TEST3376,João Oliveira,277.550.382-27,31,Histórico médico 22,Medicação 3,Nenhuma,(54) 92078-9086
+TEST6874,Gustavo Carvalho,856.693.220-13,23,Histórico médico 60,Medicação 9,Alergia 4,(20) 91051-9497
+TEST1425,Renata Cardoso,870.530.201-79,39,Histórico médico 66,Medicação 5,Nenhuma,(72) 90059-6419
+TEST8516,Rafael Almeida,520.801.669-84,34,Histórico médico 58,Medicação 10,Nenhuma,(30) 99731-7156
+TEST8467,Renata Cardoso,877.277.582-59,39,Histórico médico 75,Medicação 8,Alergia 4,(67) 91479-2213
+TEST2126,Pedro Costa,411.163.564-49,28,Histórico médico 99,Medicação 3,Nenhuma,(11) 94995-7661
+TEST9099,Priscila Ribeiro,500.685.596-91,38,Histórico médico 61,Medicação 4,Nenhuma,(19) 92682-3412
+TEST8282,Rafael Almeida,114.263.842-48,30,Histórico médico 82,Medicação 5,Nenhuma,(37) 95418-2082
+TEST5797,Carlos Rodrigues,521.717.157-91,34,Histórico médico 57,Medicação 9,Alergia 3,(36) 97328-2998
+TEST5627,Vanessa Dias,699.175.338-91,25,Histórico médico 27,Medicação 6,Nenhuma,(66) 93929-6994
+TEST3228,Marcelo Araújo,242.371.302-14,27,Histórico médico 72,Medicação 7,Nenhuma,(42) 93731-7341
+TEST7715,Bruno Martins,296.765.284-64,36,Histórico médico 63,Medicação 8,Nenhuma,(25) 99609-2521
+TEST8592,Maria Santos,486.944.740-13,38,Histórico médico 65,Medicação 2,Nenhuma,(69) 95028-2696
+TEST7432,Marcelo Araújo,686.736.413-57,32,Histórico médico 28,Medicação 7,Nenhuma,(20) 96040-5381
+TEST3438,Fernanda Lima,873.659.863-82,37,Histórico médico 25,Medicação 9,Nenhuma,(28) 98322-5794
+TEST9600,Felipe Monteiro,678.322.950-52,31,Histórico médico 81,Medicação 3,Alergia 4,(35) 94981-2655
+TEST8896,Rafael Almeida,712.793.727-34,23,Histórico médico 51,Medicação 8,Nenhuma,(55) 92815-8788
+TEST7898,Renata Cardoso,992.976.514-92,29,Histórico médico 98,Medicação 5,Nenhuma,(78) 97122-9860
+TEST5325,Camila Sousa,823.726.473-70,23,Histórico médico 80,Medicação 9,Alergia 3,(87) 98766-4214
+TEST5944,Leonardo Nascimento,282.118.881-84,29,Histórico médico 30,Medicação 3,Nenhuma,(53) 98866-5457
+TEST2646,Lucia Ferreira,373.779.921-23,30,Histórico médico 92,Medicação 8,Nenhuma,(83) 97518-6224
+TEST1951,Camila Sousa,379.796.774-84,27,Histórico médico 61,Medicação 6,Nenhuma,(47) 99568-7712
+TEST2644,Marcelo Araújo,907.811.458-19,31,Histórico médico 10,Medicação 6,Nenhuma,(62) 91147-8895
+TEST9292,Maria Santos,344.702.712-92,20,Histórico médico 4,Medicação 3,Nenhuma,(14) 93497-2196
+TEST6548,Juliana Pereira,553.362.418-69,28,Histórico médico 37,Medicação 5,Nenhuma,(72) 90736-4817
+TEST5700,Felipe Monteiro,506.307.299-60,29,Histórico médico 89,Medicação 9,Nenhuma,(87) 99887-2808
+TEST1154,João Oliveira,107.817.816-84,33,Histórico médico 19,Medicação 5,Nenhuma,(57) 98986-3441
+TEST6382,Diego Barbosa,723.229.176-38,34,Histórico médico 1,Medicação 4,Alergia 4,(50) 94897-5816
+TEST7525,Gustavo Carvalho,283.214.386-72,26,Histórico médico 63,Medicação 2,Nenhuma,(41) 97305-4328
+TEST2140,João Oliveira,616.420.103-71,23,Histórico médico 72,Medicação 8,Nenhuma,(91) 95797-2346
+TEST5109,Gustavo Carvalho,792.665.739-85,20,Histórico médico 55,Medicação 3,Alergia 3,(56) 99817-1791
+TEST7671,Fernanda Lima,546.663.686-75,25,Histórico médico 55,Medicação 10,Alergia 2,(46) 90560-9284
+TEST4943,Pedro Costa,138.922.966-26,26,Histórico médico 73,Medicação 5,Nenhuma,(67) 98568-9063
+TEST9452,Leonardo Nascimento,442.667.265-73,29,Histórico médico 88,Medicação 4,Alergia 2,(78) 99732-7839
+TEST7534,Ana Silva,182.420.882-45,21,Histórico médico 4,Medicação 3,Alergia 4,(24) 95630-9485
+TEST2006,Marcelo Araújo,971.153.900-93,21,Histórico médico 71,Medicação 2,Nenhuma,(69) 98702-6300
+TEST6859,Camila Sousa,922.639.580-81,20,Histórico médico 76,Medicação 4,Alergia 2,(15) 97851-1882
+TEST8205,Marcelo Araújo,380.154.846-16,38,Histórico médico 31,Medicação 5,Alergia 1,(39) 90821-3091
+TEST1390,Tatiana Gomes,959.877.523-97,36,Histórico médico 13,Medicação 8,Nenhuma,(88) 97427-2454
+TEST8780,Priscila Ribeiro,707.959.163-25,37,Histórico médico 34,Medicação 9,Nenhuma,(30) 91700-4178
+TEST6188,Felipe Monteiro,653.386.959-92,21,Histórico médico 56,Medicação 3,Nenhuma,(83) 95036-6751
+TEST5870,Diego Barbosa,642.927.707-61,30,Histórico médico 87,Medicação 10,Nenhuma,(48) 90173-8411
+TEST5980,Bruno Martins,169.283.187-21,34,Histórico médico 46,Medicação 8,Nenhuma,(50) 99175-3434
+TEST1908,Marcelo Araújo,927.591.984-26,33,Histórico médico 66,Medicação 7,Alergia 4,(44) 94396-1451
+TEST4952,Maria Santos,206.558.847-56,27,Histórico médico 64,Medicação 8,Nenhuma,(11) 95564-7528
+TEST9930,Fernanda Lima,404.416.190-61,28,Histórico médico 86,Medicação 8,Alergia 1,(37) 98637-4265
+TEST9437,Juliana Pereira,812.253.206-59,27,Histórico médico 18,Medicação 6,Alergia 1,(31) 99953-8527
+TEST1999,Pedro Costa,738.838.189-18,21,Histórico médico 30,Medicação 2,Alergia 2,(86) 92415-5052
+TEST1895,Marcelo Araújo,518.813.335-72,30,Histórico médico 8,Medicação 2,Alergia 1,(91) 95621-1606
+TEST7853,Ana Silva,668.551.410-92,25,Histórico médico 94,Medicação 1,Nenhuma,(89) 98026-4392
+TEST7068,Pedro Costa,564.791.260-65,28,Histórico médico 15,Medicação 4,Nenhuma,(33) 94834-9202
+TEST3938,Marcelo Araújo,473.401.422-71,24,Histórico médico 96,Medicação 4,Nenhuma,(21) 96878-1353
+TEST2030,Marcelo Araújo,499.178.987-55,22,Histórico médico 3,Medicação 3,Nenhuma,(60) 90361-2434
+TEST9366,Camila Sousa,795.990.730-65,36,Histórico médico 42,Medicação 1,Alergia 1,(34) 96795-4594
+TEST1553,João Oliveira,297.643.938-92,38,Histórico médico 89,Medicação 5,Alergia 4,(16) 93676-2706
+TEST4954,Gustavo Carvalho,623.751.268-53,20,Histórico médico 17,Medicação 4,Nenhuma,(84) 95423-9650
+TEST5113,João Oliveira,233.834.983-53,34,Histórico médico 45,Medicação 4,Nenhuma,(23) 95588-2518
+TEST2013,Camila Sousa,103.251.349-40,27,Histórico médico 2,Medicação 2,Nenhuma,(86) 97291-7098
+TEST8602,Marcelo Araújo,209.911.446-76,22,Histórico médico 2,Medicação 9,Nenhuma,(19) 92099-3459
+TEST9244,Diego Barbosa,429.701.439-24,30,Histórico médico 63,Medicação 4,Nenhuma,(99) 94030-1845
+TEST2154,Gustavo Carvalho,746.365.363-85,39,Histórico médico 9,Medicação 6,Nenhuma,(81) 99518-1512
+TEST2437,Diego Barbosa,386.244.517-46,28,Histórico médico 12,Medicação 7,Nenhuma,(23) 91200-5243
+TEST9210,Ana Silva,664.828.184-47,38,Histórico médico 8,Medicação 4,Nenhuma,(26) 96557-9819
+TEST1758,Ana Silva,664.954.934-77,31,Histórico médico 76,Medicação 4,Alergia 4,(20) 98041-2911
+TEST7299,Fernanda Lima,224.808.960-97,21,Histórico médico 64,Medicação 9,Nenhuma,(94) 97587-9466
+TEST6446,Tatiana Gomes,776.261.293-24,34,Histórico médico 52,Medicação 7,Alergia 1,(22) 90014-4587
+TEST1756,Juliana Pereira,998.727.338-71,21,Histórico médico 23,Medicação 2,Nenhuma,(97) 95437-3940
+TEST9567,Rafael Almeida,201.571.662-77,35,Histórico médico 99,Medicação 1,Alergia 1,(78) 94959-1284
+TEST5690,Renata Cardoso,852.756.156-33,28,Histórico médico 88,Medicação 10,Alergia 1,(84) 98093-1358
+TEST2780,Camila Sousa,126.295.842-85,30,Histórico médico 25,Medicação 10,Nenhuma,(87) 99795-2304
+TEST4795,Renata Cardoso,512.451.172-28,28,Histórico médico 24,Medicação 2,Alergia 3,(51) 98022-1435
+TEST8082,João Oliveira,445.406.782-93,21,Histórico médico 38,Medicação 10,Nenhuma,(22) 95848-3312
+TEST9567,Camila Sousa,768.750.517-40,30,Histórico médico 16,Medicação 9,Nenhuma,(46) 90372-9661
+TEST6139,Felipe Monteiro,135.382.558-54,36,Histórico médico 86,Medicação 2,Nenhuma,(99) 93185-4700
+TEST1060,Marcelo Araújo,347.459.865-46,23,Histórico médico 2,Medicação 10,Nenhuma,(14) 95361-3566
+TEST4025,Gustavo Carvalho,761.317.614-97,40,Histórico médico 21,Medicação 10,Nenhuma,(27) 91306-1455
+TEST6778,Rafael Almeida,563.189.231-22,30,Histórico médico 44,Medicação 3,Alergia 5,(40) 95058-9756
+TEST3070,Vanessa Dias,836.500.528-52,35,Histórico médico 63,Medicação 10,Nenhuma,(14) 99954-2465
+TEST4232,Camila Sousa,346.393.549-80,38,Histórico médico 83,Medicação 2,Alergia 5,(45) 97290-2565
+TEST5214,Maria Santos,859.720.236-96,37,Histórico médico 88,Medicação 9,Alergia 5,(17) 91870-3129
+TEST8269,Felipe Monteiro,703.825.309-83,32,Histórico médico 58,Medicação 3,Nenhuma,(66) 97350-7838
+TEST2971,Maria Santos,442.551.476-38,24,Histórico médico 92,Medicação 1,Nenhuma,(81) 93397-6314
+TEST6934,Priscila Ribeiro,181.390.461-57,21,Histórico médico 37,Medicação 1,Alergia 2,(69) 91062-3009
+TEST1222,Ana Silva,582.245.356-57,31,Histórico médico 30,Medicação 4,Nenhuma,(45) 96707-1774
+TEST7182,Leonardo Nascimento,735.123.523-68,25,Histórico médico 39,Medicação 3,Nenhuma,(48) 94315-8312
+TEST7847,Rafael Almeida,888.228.874-94,40,Histórico médico 81,Medicação 2,Nenhuma,(36) 90857-5949
+TEST1639,Vanessa Dias,503.843.719-91,30,Histórico médico 74,Medicação 5,Nenhuma,(56) 93145-5584
+TEST9208,Carlos Rodrigues,834.566.860-51,30,Histórico médico 89,Medicação 7,Nenhuma,(77) 94109-6426
+TEST9842,Maria Santos,834.779.547-69,20,Histórico médico 42,Medicação 4,Nenhuma,(11) 91270-6768
+TEST4340,Tatiana Gomes,961.700.234-72,35,Histórico médico 92,Medicação 5,Nenhuma,(53) 98186-4675
+TEST9761,Vanessa Dias,873.684.754-92,35,Histórico médico 17,Medicação 3,Nenhuma,(55) 90524-8800
+TEST8680,Felipe Monteiro,544.112.625-27,21,Histórico médico 47,Medicação 5,Alergia 2,(82) 92287-1511
+TEST6999,Gustavo Carvalho,679.153.486-33,24,Histórico médico 32,Medicação 7,Alergia 1,(84) 94889-9576
+TEST9104,Rafael Almeida,609.483.414-71,38,Histórico médico 97,Medicação 1,Nenhuma,(33) 94882-9135
+TEST5864,Vanessa Dias,828.300.965-20,24,Histórico médico 53,Medicação 1,Alergia 3,(74) 92776-1067
+TEST4565,Rafael Almeida,257.123.959-25,27,Histórico médico 89,Medicação 9,Nenhuma,(78) 97514-5155
+TEST1576,Lucia Ferreira,753.321.766-42,24,Histórico médico 83,Medicação 1,Alergia 5,(25) 94652-9099
+TEST2400,Gustavo Carvalho,973.807.404-41,33,Histórico médico 44,Medicação 5,Nenhuma,(88) 94968-9210
+TEST4537,Renata Cardoso,757.204.882-47,21,Histórico médico 82,Medicação 3,Nenhuma,(11) 90364-8103
+TEST3971,Juliana Pereira,981.658.598-73,27,Histórico médico 67,Medicação 6,Alergia 3,(38) 92176-8151
+TEST7464,Juliana Pereira,677.914.940-66,33,Histórico médico 50,Medicação 10,Nenhuma,(58) 93527-1573
+TEST1009,Juliana Pereira,877.354.163-64,38,Histórico médico 78,Medicação 1,Nenhuma,(21) 90463-3938
+TEST1100,Vanessa Dias,212.401.633-22,39,Histórico médico 55,Medicação 9,Nenhuma,(60) 92119-2894
+TEST8785,Felipe Monteiro,656.653.398-76,32,Histórico médico 28,Medicação 2,Nenhuma,(68) 91343-8557
+TEST8694,João Oliveira,297.666.253-29,35,Histórico médico 25,Medicação 5,Nenhuma,(97) 96301-8096
+TEST4061,Gustavo Carvalho,465.405.741-14,32,Histórico médico 5,Medicação 7,Nenhuma,(23) 90303-9687
+TEST2131,Priscila Ribeiro,767.627.526-78,39,Histórico médico 42,Medicação 3,Nenhuma,(99) 90810-8982
+TEST3938,Felipe Monteiro,506.147.879-33,27,Histórico médico 52,Medicação 7,Alergia 4,(37) 98438-9029
+TEST9199,Felipe Monteiro,243.668.802-36,40,Histórico médico 67,Medicação 5,Nenhuma,(58) 92880-5745
+TEST5763,Renata Cardoso,745.525.811-78,26,Histórico médico 15,Medicação 7,Nenhuma,(38) 91207-2397
+TEST7176,Juliana Pereira,607.175.124-10,33,Histórico médico 28,Medicação 5,Nenhuma,(34) 96734-4033
+TEST1004,Carlos Rodrigues,641.787.358-33,39,Histórico médico 45,Medicação 3,Alergia 3,(33) 94110-7023
+TEST3966,Felipe Monteiro,894.467.210-76,21,Histórico médico 3,Medicação 10,Alergia 2,(20) 93766-3452
+TEST1463,Renata Cardoso,880.828.243-63,23,Histórico médico 5,Medicação 6,Alergia 1,(30) 92535-9400
+TEST2241,Rafael Almeida,162.772.676-24,29,Histórico médico 24,Medicação 5,Nenhuma,(89) 94000-8975
+TEST8200,Fernanda Lima,397.610.787-23,21,Histórico médico 100,Medicação 3,Nenhuma,(88) 95187-8632
+TEST3904,Rafael Almeida,234.973.331-13,40,Histórico médico 65,Medicação 7,Nenhuma,(51) 97957-2922
+TEST2953,Camila Sousa,599.341.348-60,38,Histórico médico 89,Medicação 4,Nenhuma,(90) 98726-3737
+TEST3195,Maria Santos,166.616.191-32,23,Histórico médico 39,Medicação 9,Nenhuma,(94) 93748-3783
+TEST2225,Vanessa Dias,785.146.182-99,40,Histórico médico 87,Medicação 8,Nenhuma,(74) 95295-6084
+TEST5300,Lucia Ferreira,174.347.877-75,29,Histórico médico 30,Medicação 10,Nenhuma,(49) 93210-4828
+TEST9298,Camila Sousa,546.591.215-73,24,Histórico médico 53,Medicação 6,Nenhuma,(84) 98947-9060
+TEST7755,Renata Cardoso,106.380.767-66,28,Histórico médico 29,Medicação 9,Nenhuma,(33) 95746-3725
+TEST1435,Leonardo Nascimento,889.655.796-66,35,Histórico médico 57,Medicação 10,Alergia 5,(26) 95791-2345
+TEST7018,Priscila Ribeiro,348.418.327-90,24,Histórico médico 89,Medicação 3,Nenhuma,(13) 94632-9408
+TEST6171,Renata Cardoso,977.723.300-79,33,Histórico médico 50,Medicação 4,Nenhuma,(72) 90756-5828
+TEST9555,Juliana Pereira,824.569.643-21,32,Histórico médico 89,Medicação 3,Nenhuma,(56) 95826-5455
+TEST9495,Vanessa Dias,869.197.667-26,37,Histórico médico 27,Medicação 6,Nenhuma,(89) 95119-5332
+TEST8568,Ana Silva,418.175.531-66,37,Histórico médico 90,Medicação 2,Alergia 5,(49) 94774-2522
+TEST5689,Bruno Martins,148.626.320-70,32,Histórico médico 17,Medicação 9,Nenhuma,(43) 91335-4278
+TEST8611,Fernanda Lima,906.340.875-50,35,Histórico médico 48,Medicação 10,Nenhuma,(86) 91431-2899
+TEST9955,Pedro Costa,732.376.579-38,31,Histórico médico 91,Medicação 8,Alergia 4,(90) 92845-3365
+TEST8805,Gustavo Carvalho,842.303.870-67,20,Histórico médico 95,Medicação 2,Alergia 1,(68) 93650-7199
+TEST8933,Vanessa Dias,712.556.601-95,24,Histórico médico 75,Medicação 4,Alergia 4,(63) 98134-1593
+TEST5323,Diego Barbosa,718.125.206-11,34,Histórico médico 6,Medicação 5,Nenhuma,(69) 93803-2769
+TEST8190,Diego Barbosa,700.466.338-35,31,Histórico médico 89,Medicação 4,Alergia 1,(80) 99144-7723
+TEST9590,Felipe Monteiro,952.922.409-13,36,Histórico médico 45,Medicação 7,Nenhuma,(12) 92434-9083
+TEST4011,Vanessa Dias,874.755.509-99,29,Histórico médico 29,Medicação 10,Nenhuma,(85) 99197-2078
+TEST8282,Carlos Rodrigues,542.775.426-21,21,Histórico médico 90,Medicação 2,Nenhuma,(32) 96474-6771
+TEST2111,Camila Sousa,277.406.543-36,20,Histórico médico 58,Medicação 10,Alergia 3,(19) 91150-4641
+TEST4197,Renata Cardoso,882.647.631-29,33,Histórico médico 64,Medicação 4,Nenhuma,(51) 98027-4274
+TEST3439,Renata Cardoso,720.225.637-34,20,Histórico médico 6,Medicação 1,Nenhuma,(22) 97166-5882
+TEST6498,Renata Cardoso,992.216.538-36,25,Histórico médico 11,Medicação 1,Nenhuma,(34) 92270-7375
+TEST8835,Marcelo Araújo,783.537.294-55,29,Histórico médico 58,Medicação 2,Nenhuma,(15) 98515-5700
+TEST2967,Fernanda Lima,700.124.697-34,24,Histórico médico 17,Medicação 8,Alergia 2,(85) 97001-8287
+TEST1561,Marcelo Araújo,254.929.864-58,36,Histórico médico 11,Medicação 7,Nenhuma,(86) 93995-4506
+TEST3602,Fernanda Lima,151.978.414-96,39,Histórico médico 90,Medicação 9,Nenhuma,(83) 95734-4611
+TEST6509,Felipe Monteiro,239.844.826-96,21,Histórico médico 14,Medicação 3,Alergia 4,(72) 94059-5887
+TEST1472,Marcelo Araújo,694.851.166-97,32,Histórico médico 69,Medicação 7,Alergia 5,(37) 90633-1187
+TEST9259,Vanessa Dias,325.717.613-74,21,Histórico médico 19,Medicação 7,Alergia 1,(63) 91676-8638
+TEST4062,Fernanda Lima,737.514.751-40,29,Histórico médico 57,Medicação 8,Alergia 2,(79) 90253-9962
+TEST5034,Rafael Almeida,987.537.878-39,36,Histórico médico 19,Medicação 2,Alergia 2,(69) 94442-2656
+TEST1426,Rafael Almeida,241.897.229-30,40,Histórico médico 64,Medicação 6,Nenhuma,(56) 90556-9055
+TEST6398,Renata Cardoso,134.809.360-54,29,Histórico médico 96,Medicação 5,Nenhuma,(67) 91052-4312
+TEST3083,Tatiana Gomes,739.346.412-24,35,Histórico médico 35,Medicação 8,Nenhuma,(91) 91681-4849
+TEST2758,Priscila Ribeiro,651.342.141-94,36,Histórico médico 69,Medicação 2,Nenhuma,(74) 99289-7780
+TEST5079,Camila Sousa,507.958.531-10,33,Histórico médico 37,Medicação 2,Nenhuma,(68) 98557-6999
+TEST8014,Tatiana Gomes,856.268.228-46,31,Histórico médico 55,Medicação 1,Nenhuma,(89) 98325-2123
+TEST9074,Bruno Martins,828.921.762-75,36,Histórico médico 11,Medicação 4,Nenhuma,(23) 92573-5042
+TEST9665,Pedro Costa,924.440.477-19,36,Histórico médico 34,Medicação 1,Nenhuma,(11) 98830-8396
+TEST2899,Vanessa Dias,545.691.575-10,22,Histórico médico 3,Medicação 1,Nenhuma,(61) 94817-4510
+TEST7079,Fernanda Lima,765.393.579-86,33,Histórico médico 1,Medicação 7,Nenhuma,(94) 92301-4745
+TEST6530,Leonardo Nascimento,438.393.204-70,33,Histórico médico 54,Medicação 3,Nenhuma,(30) 95354-4577
+TEST8948,Camila Sousa,858.678.786-33,34,Histórico médico 6,Medicação 2,Nenhuma,(99) 98827-4998
+TEST1536,Pedro Costa,205.182.400-80,32,Histórico médico 80,Medicação 5,Nenhuma,(69) 98798-4033
+TEST6477,João Oliveira,227.201.243-42,32,Histórico médico 80,Medicação 4,Alergia 3,(27) 94495-6942
+TEST8829,João Oliveira,349.725.588-38,23,Histórico médico 97,Medicação 1,Alergia 5,(27) 96507-2073
+TEST5438,Carlos Rodrigues,841.119.534-13,34,Histórico médico 94,Medicação 1,Nenhuma,(54) 90323-6956
+TEST6160,Pedro Costa,947.531.125-87,22,Histórico médico 1,Medicação 2,Nenhuma,(22) 94705-4612
+TEST7190,João Oliveira,422.872.814-70,24,Histórico médico 11,Medicação 3,Nenhuma,(53) 97005-1684
+TEST4649,Bruno Martins,461.378.297-65,36,Histórico médico 80,Medicação 4,Nenhuma,(14) 94853-9702
+TEST9487,Diego Barbosa,654.465.114-84,32,Histórico médico 25,Medicação 1,Alergia 1,(38) 95980-4513
+TEST8156,Carlos Rodrigues,167.692.536-60,35,Histórico médico 61,Medicação 10,Nenhuma,(68) 96337-9468
+TEST7393,Maria Santos,962.616.835-97,21,Histórico médico 2,Medicação 10,Nenhuma,(46) 94041-9301
+TEST9800,Priscila Ribeiro,123.124.438-56,32,Histórico médico 43,Medicação 5,Nenhuma,(77) 93452-6354
+TEST9688,Camila Sousa,639.727.700-14,38,Histórico médico 83,Medicação 1,Alergia 5,(24) 99349-7748
+TEST8285,Diego Barbosa,742.876.253-24,25,Histórico médico 99,Medicação 4,Nenhuma,(43) 95787-7008
+TEST8838,Pedro Costa,122.202.360-78,28,Histórico médico 1,Medicação 6,Nenhuma,(70) 92459-3524
+TEST1607,Lucia Ferreira,817.218.129-88,34,Histórico médico 66,Medicação 3,Nenhuma,(65) 98330-9157
+TEST1035,Maria Santos,924.676.134-82,33,Histórico médico 53,Medicação 3,Nenhuma,(84) 92029-7025
+TEST1307,João Oliveira,541.726.869-92,32,Histórico médico 70,Medicação 1,Alergia 4,(55) 96241-3158
+TEST1822,Carlos Rodrigues,392.490.536-47,35,Histórico médico 98,Medicação 3,Alergia 1,(76) 95937-1386
+TEST9456,Carlos Rodrigues,692.990.818-50,40,Histórico médico 68,Medicação 2,Nenhuma,(58) 98322-6007
+TEST6205,Marcelo Araújo,902.825.401-27,35,Histórico médico 43,Medicação 8,Nenhuma,(11) 97226-9976
+TEST2141,Ana Silva,308.931.918-22,22,Histórico médico 84,Medicação 1,Alergia 3,(69) 99443-6016
+TEST2459,Bruno Martins,349.464.419-36,32,Histórico médico 16,Medicação 1,Nenhuma,(69) 97283-7180
+TEST1172,Ana Silva,725.998.848-17,39,Histórico médico 41,Medicação 4,Nenhuma,(83) 94487-9708
+TEST6837,Felipe Monteiro,863.318.198-78,22,Histórico médico 81,Medicação 10,Nenhuma,(99) 91691-8562
+TEST5454,Bruno Martins,582.233.712-76,34,Histórico médico 13,Medicação 7,Alergia 5,(90) 99277-6449
+TEST5544,Tatiana Gomes,448.276.986-47,30,Histórico médico 62,Medicação 1,Alergia 4,(22) 92018-7215
+TEST7785,João Oliveira,780.447.508-71,22,Histórico médico 29,Medicação 7,Nenhuma,(94) 94579-8579
+TEST1552,Felipe Monteiro,563.771.648-93,24,Histórico médico 16,Medicação 3,Nenhuma,(54) 97862-3878
+TEST2784,Vanessa Dias,614.954.618-56,27,Histórico médico 85,Medicação 5,Nenhuma,(97) 95342-2307
+TEST6766,Juliana Pereira,546.623.692-92,23,Histórico médico 51,Medicação 5,Nenhuma,(11) 91403-1178
+TEST8226,João Oliveira,638.418.646-43,38,Histórico médico 36,Medicação 3,Nenhuma,(67) 99660-6125
+TEST1411,Lucia Ferreira,102.635.474-34,24,Histórico médico 4,Medicação 3,Nenhuma,(18) 95037-2634
+TEST1610,Renata Cardoso,880.617.532-21,24,Histórico médico 78,Medicação 1,Nenhuma,(75) 90488-9668
+TEST1415,João Oliveira,360.301.865-45,29,Histórico médico 39,Medicação 5,Nenhuma,(33) 91062-5756
+TEST6923,Diego Barbosa,774.490.478-89,39,Histórico médico 31,Medicação 2,Alergia 3,(52) 91304-4718
+TEST5448,Maria Santos,135.965.726-66,24,Histórico médico 30,Medicação 7,Nenhuma,(37) 92911-5730
+TEST4065,Renata Cardoso,372.460.674-78,33,Histórico médico 77,Medicação 6,Nenhuma,(73) 95807-2520
+TEST4738,Juliana Pereira,888.315.753-47,21,Histórico médico 80,Medicação 7,Nenhuma,(50) 99533-2758
+TEST3300,Vanessa Dias,170.293.734-77,21,Histórico médico 5,Medicação 10,Nenhuma,(90) 97956-3219
+TEST1533,Renata Cardoso,620.181.401-64,36,Histórico médico 75,Medicação 8,Nenhuma,(21) 98035-7372
